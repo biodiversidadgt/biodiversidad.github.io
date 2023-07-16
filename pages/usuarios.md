@@ -24,7 +24,7 @@ header:
 
 ## Tipos de Datos de Biodiversidad   {#datos-biodiversidad}
 
-El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) contiene información de `especímenes` ingresada desde las **colecciones biológicas nacionales**. Además, existe información de `observaciones` realizadas durante proyectos de investigación. A continuación se describen las principales herramientas de búsqueda para poder explorar los datos incluidos en el Portal. Se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros a ser utilizados en investigaciones científicas para vincular y citar adecuadamente los datos en publicaciones.
+El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) contiene información de `especímenes` ingresada desde las colecciones biológicas nacionales. Además, existe información de `observaciones` realizadas durante proyectos de investigación. A continuación se describen las principales herramientas de búsqueda para poder explorar los datos incluidos en el Portal. Se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros a ser utilizados en investigaciones científicas para vincular y citar adecuadamente los datos en publicaciones.
 
 ---
 
