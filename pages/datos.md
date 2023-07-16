@@ -6,6 +6,7 @@ teaser: "Información general acerca de datos de biodiversidad."
 permalink: "/datos/"
 header:
    image_fullwidth: "header_pluma.jpg"
+   caption: Imagen por Sara L. Ríos
 ---
 
 <div class="row">
