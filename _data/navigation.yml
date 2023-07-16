@@ -6,6 +6,13 @@
   url: "/guia-rapida/"
   side: left
 
+- title: Datos de Biodiversidad
+  url: "/datos/"
+  side: left
+  dropdown:
+  - title: "Actividades"
+    url: "/changelog/"
+
 - title: "Curadores"
   url: "/curadores/"
   side: left
@@ -19,13 +26,6 @@
   dropdown:
   - title: "Header with Full-Width-Image"
     url: "/curadores/header-full-width-image/"
-  
-- title: Documentación
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Actividades"
-    url: "/changelog/"
   
 - title: Blog
   url: "/blog/"
