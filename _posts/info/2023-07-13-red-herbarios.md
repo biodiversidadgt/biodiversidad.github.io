@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Charlas y Tutoriales"
 title: "Red de Herbarios de Mesoamérica y El Caribe"
-teaser: "¿Quieren aprender más acerca del Portal de Biodiversidad de Guatemala? Pueden explorar nuestra serie de videos con charlas informativas y tutoriales acerca las herramientas disponibles para el manejo y digitalización de colecciones. "
+teaser: "Charla enfocada en Portales Symbiota, impartida durante la serie de divulgación Hora Clorofila de la Red de Herbarios de Mesoamérica y el Caribe."
 categories:
   - curadores
 tags:
