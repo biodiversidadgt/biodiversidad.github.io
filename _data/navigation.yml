@@ -5,10 +5,7 @@
 - title: Datos de Biodiversidad
   url: "/datos/"
   side: left
-  dropdown:
-  - title: "Actividades"
-    url: "/changelog/"
-
+  
 - title: Guía Rápida
   url: "/guia-rapida/"
   side: left
@@ -16,17 +13,11 @@
 - title: "Curadores"
   url: "/curadores/"
   side: left
-  dropdown:
-  - title: "Solicitud de Perfil Virtual"
-    url: "/curadores/solicitud-perfil/"
   
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/curadores/header-full-width-image/"
-  
+     
 - title: Blog
   url: "/blog/"
   side: left
