@@ -22,15 +22,17 @@ header:
 
 ---
 
-Los datos de biodiversidad provienen de registros de organismos en un tiempo y un espacio definido. Para hacer estos registros, se necesita evidencia en forma de `especímenes` depositados en colecciones biológicas, o de `observaciones` generalmente respaldadas con imágenes, videos o sonidos. Existen formatos estandarizados para la captura de datos de biodiversidad, incluyendo [Darwin Core](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715), que contiene los campos necesarios para documentar esta información. La entidad encargada de regular los estándares de datos de biodiversidad se denomina [TDWG](https://www.tdwg.org/), y está integrada por una extensa comunidad de informáticos, curadores, taxónomos y otros científicos asociados al estudio de la biodiversidad.
+Los datos de biodiversidad provienen de registros de organismos en un tiempo y un espacio definido. Para hacer estos registros, se necesita evidencia en forma de `especímenes` depositados en colecciones biológicas, o de `observaciones` generalmente respaldadas con imágenes, videos o sonidos. Existen formatos estandarizados para la captura de datos de biodiversidad, incluyendo [Darwin Core](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715), que contiene los campos necesarios para documentar esta información, facilitando su manejo e intercambio entre distintas plataformas. La entidad encargada de regular los estándares de datos de biodiversidad se denomina [TDWG](https://www.tdwg.org/), y está integrada por una extensa comunidad de informáticos, curadores, taxónomos y otros científicos asociados al estudio de la biodiversidad.
 
 Una gran cantidad de plataformas especializadas están disponibles para el manejo adecuado de datos de biodiversidad, dependiendo del tipo de registros. El **Portal de Biodiversidad de Guatemala** está basado en la plataforma [Symbiota](https://symbiota.org), que permite el manejo de datos tanto de especímenes, como de observaciones.     
 
-Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 por una de las [administradoras](https://biodiversidadgt.github.io/docs/contactos/) del Portal para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
+Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.youtube.com/watch?v=o6qCm_y6cvA) impartida en 2021, durante el XXIV  Congreso de la Sociedad Mesoamericana para la Biología y la Conservación.
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/watch?v=o6qCm_y6cvA" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
-## Tipos de Registros
+También disponible: [Charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
+
+## Registros Aceptados en el Portal de Biodiversidad
 
 El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite el ingreso de `datos de especímenes` en un formato estandarizado (i.e. [Darwin Core](https://dwc.tdwg.org/)), que facilita su manejo e intercambio con otras plataformas de especializadas. Existen tres tipos de `registros de organismos` que pueden ser manejados en el Portal bajo estos estándares. La clasificación de los registros depende del origen y forma de respaldo de la información.
 
@@ -57,6 +59,7 @@ Fotografía: María José Chang. Colección Fotográfica UVGF.
 ---
 
 ## Agregadores de Información
+
 
 
 
