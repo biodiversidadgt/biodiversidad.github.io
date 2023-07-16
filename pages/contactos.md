@@ -6,6 +6,8 @@ teaser              : "¿Preguntas acerca del <a href='https://biodiversidad.gt'
 permalink           : "/contactos/"
 header:
     image_fullwidth: "header_pluma.jpg"
+    caption: Imagen por Sara L. Ríos
+    thumb: biodiversidadgt.jpg
 ---
 
 
