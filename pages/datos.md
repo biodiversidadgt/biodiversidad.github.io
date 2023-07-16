@@ -28,12 +28,13 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 
 Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.youtube.com/watch?v=o6qCm_y6cvA) impartida en 2021, durante el XXIV  Congreso de la Sociedad Mesoamericana para la Biología y la Conservación.
 
-|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/a5c86f4b-b849-4501-839d-e2b27022b026)
-](https://www.youtube.com/watch?v=o6qCm_y6cvA)|
+[![image](https://github.com/biodiversidadgt/docs/assets/69399374/a5c86f4b-b849-4501-839d-e2b27022b026)
+](https://www.youtube.com/watch?v=o6qCm_y6cvA)
 
 
-`También disponible:` [Charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
+`También disponible:` Charla ["Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589), impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
 
+{% include alert info='También disponible: Charla <em>Feeling Responsive</em> is listed on <a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589">"Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"</a>, impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala' %}
 
 ---
 
