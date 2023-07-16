@@ -24,7 +24,7 @@ header:
 
 ## Datos de Biodiversidad   {#datos-biodiversidad}
 
-Los datos de biodiversidad provienen de registros de organismos en un tiempo y un espacio definido. Para hacer estos registros, se necesita evidencia en forma de especímenes depositados en colecciones biológicas, o de observaciones generalmente respaldadas con imágenes, videos o sonidos.  
+Los datos de biodiversidad provienen de registros de organismos en un tiempo y un espacio definido. Para hacer estos registros, se necesita evidencia en forma de `especímenes` depositados en colecciones biológicas, o de `observaciones` generalmente respaldadas con imágenes, videos o sonidos. Existen formatos estandarizados para la captura de datos de biodiversidad, incluyendo [Darwin Core](https://www.tdwg.org/standards/dwc/), que contiene los campos necesarios para documentar esta información.    
 
 ## Tipos de Registros
 El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite el ingreso de `datos de especímenes` en un formato estandarizado (i.e. [Darwin Core](https://dwc.tdwg.org/)), que facilita su manejo e intercambio con otras plataformas de especializadas. Existen tres tipos de `registros de organismos` que pueden ser manejados en el Portal bajo estos estándares. La clasificación de los registros depende del origen y forma de respaldo de la información.
