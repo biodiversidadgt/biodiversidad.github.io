@@ -22,39 +22,13 @@ header:
 
 ---
 
-## Tipos de Datos de Biodiversidad   {#datos-biodiversidad}
-
-El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite el ingreso de `datos de especímenes` en un formato estandarizado (i.e. [Darwin Core](https://dwc.tdwg.org/)), que facilita su manejo e intercambio con otras plataformas de especializadas. Existen tres tipos de `registros de organismos` que pueden ser manejados en el Portal bajo estos estándares. La clasificación de los registros depende del origen y forma de respaldo de la información.
-
-### Registros de especímenes preservados
-
-Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros consisten en información contenida en `etiquetas de especímenes` depositados en colecciones científicas (plantas, animales, hongos, fósiles). Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) de colección de especímenes preservados.
-
-[![image](https://github.com/biodiversidadgt/docs/assets/69399374/d1754118-980e-44c2-b719-2be3575d2eac)
-](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
-Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
-
-### Registros de especímenes vivos
-
-Similares a los registros de especímenes preservados, pero la información proviene de `ejemplares vivos` en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos de plantas. Requieren evidencia fotográfica.
-
-### Registros de observaciones
-
-Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8) de colección de especímenes vivos.
-
-[![image](https://github.com/biodiversidadgt/docs/assets/69399374/0c493177-cf6d-4f84-bee1-e601a093df33)
-](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-Fotografía: María José Chang. Colección Fotográfica UVGF.
-
----
-
-## Tipos de Perfiles Virtuales   {#perfiles}
-
-El Portal de Biodiversidad de Guatemala permite la generación de perfiles virtuales individuales para el manejo independiente de colecciones. Cada perfil cuenta con un formulario y herramientas especializadas para el ingreso y manejo de datos, así como opciones de configuración que va a permitir distintos niveles de acceso, para una eficiente organización de las tareas de digitalización por parte de encargados, investigadores y estudiantes. 
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) permite la generación de perfiles virtuales individuales para el manejo independiente de colecciones. Cada perfil cuenta con un formulario y herramientas especializadas para el ingreso y manejo de datos, así como opciones de configuración que va a permitir distintos niveles de acceso, para una eficiente organización de las tareas de digitalización por parte de encargados, investigadores y estudiantes. 
 
 [![PerfilUSCG](https://github.com/biodiversidadgt/docs/assets/69399374/070a86f6-2d7f-4703-a0f3-80a58b76ca83)
 ](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)
-`Perfil virtual de la Colección de Hongos del Herbario USCG CECON de la USAC.`
+Perfil virtual de la Colección de Hongos del Herbario USCG CECON de la USAC.
+
+## Tipos de Perfiles Virtuales   {#perfiles}
 
 Existen dos tipos de perfiles virtuales que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le quiera dar a los datos.
 
