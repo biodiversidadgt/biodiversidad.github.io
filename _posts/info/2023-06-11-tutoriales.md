@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: PortadaIntro.jpg
-    thumb: PortadaIntro.jpg
-    homepage: PortadaIntro.jpg
+    title: RMHC.jpg
+    thumb: RMHC.jpg
+    homepage: RMHC.jpg
     caption: Tutoriales disponibles en Youtube
     caption_url: https://youtube.com/@guatemalaportal
 mediaplayer: true
