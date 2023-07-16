@@ -36,6 +36,10 @@ Más información acerca de datos de biodiversidad puede ser encontrada en esta 
 
 {% include alert info='También disponible: Charla <em>Feeling Responsive</em> is listed on <a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589">"Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"</a>, impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala' %}
 
+{% include alert warning='También disponible: Charla <em>Feeling Responsive</em> is listed on <a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589">"Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"</a>, impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala' %}
+
+{% include alert text='También disponible: Charla <em>Feeling Responsive</em> is listed on <a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589">"Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"</a>, impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala' %}
+
 ---
 
 ## Registros Aceptados en el Portal de Biodiversidad
