@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: PortadaIntroducción.jpg
-    thumb: PortadaIntroducción.jpg
-    homepage: PortadaIntroducción.jpg
+    title: PortadaIntro.jpg
+    thumb: PortadaIntro.jpg
+    homepage: PortadaIntro.jpg
     caption: Tutoriales disponibles en Youtube
     caption_url: https://youtube.com/@guatemalaportal
 mediaplayer: true
