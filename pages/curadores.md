@@ -6,6 +6,8 @@ teaser: "Documentación para curadores, enfocada en la digitalización y manejo 
 permalink: "/curadores/"
 header:
    image_fullwidth: "header_pluma.jpg"
+   caption: Imagen por Sara L. Ríos
+   thumb: biodiversidadgt.jpg
 ---
 
 <div class="row">
