@@ -11,46 +11,40 @@ header:
 permalink           : "/guia-rapida/"
 ---
 
----
-
-1. Dirigirse a [**biodiversidad.gt**](https://biodiversidad.gt).
-1. Generar una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php). Sugerimos el formato `nombre.apellido` para el **usuario**.
-1. Conectarse con **usuario** y **contraseña**.
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
 
 ---
 
 La función principal del Portal de Biodiversidad es la digitalización de Colecciones Biológicas de Guatemala. Sin embargo, también conforma una plataforma robusta para acceder a la información de biodiversidad del país, obtenida de diversas fuentes. El Portal posee varias opciones de búsqueda de información, dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal.
 
-![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
-
 ---
+
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
 
 ## Acerca del Portal de Biodiversidad de Guatemala
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos provenientes de especímenes de colecciones científicas del país. El Portal de Biodiversidad fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es) con el apoyo del equipo informático del [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/) de Arizona State University (Estados Unidos), y está siendo utilizado para digitalizar colecciones biológicas guatemaltecas. El Portal de Biodiversidad es dirigido por [biólogos guatemaltecos](https://biodiversidadgt.github.io/docs/contactos/), y es mantenido por el equipo de Symbiota.
 
-### Ingresar al Portal de Biodiversidad
-
-Como primer paso, los usuarios deben dirigirse a [biodiversidad.gt](https://biodiversidad.gt) para ingresar en el Portal de Biodiversidad.
-
 ![Portal](https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Portal.jpg?raw=true)
 
-### Crear una cuenta en el Portal de Biodiversidad
+### Ingresar al Portal de Biodiversidad
 
-Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda del Portal de Biodiversidad. Sin embargo, es necesaria para utilizar ciertas funciones como el editor de Listados de especies y el panel de administración de colecciones.
 
-Para obtener una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php), dirigirse al botón “Iniciar Sesión” en la esquina superior derecha, y buscar la opción “Nueva Cuenta”. 
+1. Dirigirse a [**biodiversidad.gt**](https://biodiversidad.gt).
+1. Generar una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php). Sugerimos el formato `nombre.apellido` para el **usuario**.
+1. Conectarse con **usuario** y **contraseña**.
 
-    - Completar el formulario para generar una cuenta nueva.
-    - Agregar un usuario o login (recomendamos el formato nombre.apellido), nombre, apellido, contraseña y un correo electrónico.
-    - De manera opcional, pueden agregar el [ORCID](https://orcid.org/), título e institución a la que pertenecen.
-    - Resolver el captcha y seleccionar la casilla “No soy un robot”.
-    - Generar cuenta (crear usuario).
-    - Para ingresar al portal debe ingresar su usuario (login) y la contraseña. No confundir el login con el correo electrónico.
+Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda del Portal de Biodiversidad. Sin embargo, es necesaria para utilizar ciertas funciones como el editor de Listados de especies y el panel de administración de colecciones. Para ingresar al portal debe ingresar su usuario (login) y la contraseña. No confundir el login con el correo electrónico.
 
-    ![NuevoPerfil](https://github.com/biodiversidadgt/docs/assets/69399374/1f5ce5a7-7f34-479a-b2b9-534bd3eca0b6)
+![NuevoPerfil](https://github.com/biodiversidadgt/docs/assets/69399374/1f5ce5a7-7f34-479a-b2b9-534bd3eca0b6)
 
 ---
+
 
 ## Curadores y Encargados de Colecciones
 
