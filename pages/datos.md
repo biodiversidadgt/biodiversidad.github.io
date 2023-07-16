@@ -28,9 +28,10 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 
 Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.youtube.com/watch?v=o6qCm_y6cvA) impartida en 2021, durante el XXIV  Congreso de la Sociedad Mesoamericana para la Biología y la Conservación.
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/watch?v=o6qCm_y6cvA" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+|[![CharlaDatos](https://github.com/biodiversidadgt/docs/assets/69399374/a5c86f4b-b849-4501-839d-e2b27022b026)
+](https://www.youtube.com/watch?v=o6qCm_y6cvA)|
 
-También disponible: [Charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
+`También disponible:` [Charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
 
 ## Registros Aceptados en el Portal de Biodiversidad
 
@@ -56,20 +57,7 @@ Se refiere a registros esporádicos, realizados al observar un organismo en esta
 ](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
 Fotografía: María José Chang. Colección Fotográfica UVGF.
 
----
-
-## Agregadores de Información
-
-
-
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 
-<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/watch?v=o6qCm_y6cvA" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=o6qCm_y6cvA" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
