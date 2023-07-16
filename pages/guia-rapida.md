@@ -6,9 +6,8 @@ subheadline         : "Una Guía Paso a Paso"
 teaser              : "Bienvenidos a la Guía Rápida del Portal de Biodiversidad de Guatemala. En esta sección pueden encontrar los primeros pasos para utilizar esta plataforma especializada en información de biodiversidad."
 header: 
        image_fullwidth: "header_pluma.jpg"
-image:
-    thumb: biodiversidadgt.jpg
-    caption: Imagen por Sara L. Ríos
+       caption: Imagen por Sara L. Ríos
+       thumb: biodiversidadgt.jpg 
 mediaplayer: true
 show_metadata: false           
 permalink           : "/guia-rapida/"
