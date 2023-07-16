@@ -33,20 +33,33 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 ![Portal](https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Portal.jpg?raw=true)
 
-### Ingresar al Portal de Biodiversidad
+----
 
+### Ingresando al Portal de Biodiversidad
+
+Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda del Portal de Biodiversidad. Sin embargo, es necesaria para solicitar un perfil virtual de colecciones o utilizar ciertas herramientas interactivas. 
 
 1. Dirigirse a [**biodiversidad.gt**](https://biodiversidad.gt).
 1. Generar una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php). Sugerimos el formato `nombre.apellido` para el **usuario**.
 1. Conectarse con **usuario** y **contraseña**.
 
-Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda del Portal de Biodiversidad. Sin embargo, es necesaria para utilizar ciertas funciones como el editor de Listados de especies y el panel de administración de colecciones. Para ingresar al portal debe ingresar su usuario (login) y la contraseña. No confundir el login con el correo electrónico.
-
 ![NuevoPerfil](https://github.com/biodiversidadgt/docs/assets/69399374/1f5ce5a7-7f34-479a-b2b9-534bd3eca0b6)
 
 ---
 
-## Curadores y Encargados de Colecciones
+## Tipos de Usuarios en el Portal de Biodiversidad
+
+Dependiendo de las actividades que buscan ser realizadas en el Portal de Biodiversidad, los usuarios pueden considerarse como:
+
+- `Usuarios generales:` Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones luego de generar su cuenta.
+
+- `Curadores o encargados de colecciones:` Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios perfiles de manejo de colecciones a los administradores del Portal.
+
+- `Integrantes de colecciones:` Desean formar parte de alguno de los perfiles de colecciones existentes. Pueden solicitar permisos de acceso a los encargados o administradores de las colecciones de su interés.
+
+---
+
+## Funciones para Curadores e Integrantes de Colecciones
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está disponible para ser utilizado de forma gratuita por todo tipo de colecciones biológicas guatemaltecas. El objetivo principal de este portal es la digitalización y movilización de [datos de especímenes](https://biodiversidad.gt/portal/collections/list.php?db=21&hasimages=1&taxa=Solanaceae&usethes=1&taxontype=2), pero también cuenta con herramientas para manejar [proyectos de observaciones](https://biodiversidad.gt/portal/collections/list.php?db=7&reset=1&country=Guatemala&state=&county=) pequeños. Para elegir la mejor forma de hacer uso del portal, los primero que se debe evaluar es el **tipo de manejo** que van a tener sus colecciones en línea.
 
@@ -69,7 +82,7 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 
 ---
 
-## Investigadores y Usuarios Generales
+## Funciones para Investigadores y Usuarios Generales
 
 Los registros publicados en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) poseen licencias de libre acceso CC0 1.0, CC-BY o CC-BY-NC, por lo que pueden ser explorados por todos los usuarios. Sin embargo, se recomienda utilizar la plataforma [GBIF](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para descargar registros destinados a publicaciones, y así poder obtener un DOI con el que las colecciones pueden ser citadas. Si se descargan datos directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda.
 
