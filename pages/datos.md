@@ -26,12 +26,9 @@ Los datos de biodiversidad provienen de registros de organismos en un tiempo y u
 
 Una gran cantidad de plataformas especializadas están disponibles para el manejo adecuado de datos de biodiversidad, dependiendo del tipo de registros. El **Portal de Biodiversidad de Guatemala** está basado en la plataforma [Symbiota](https://symbiota.org), que permite el manejo de datos tanto de especímenes, como de observaciones.     
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589) impartida en 2021 por una de las [administradoras](https://biodiversidadgt.github.io/docs/contactos/) del Portal para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.
+
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
 ## Tipos de Registros
 
@@ -65,3 +62,11 @@ Fotografía: María José Chang. Colección Fotográfica UVGF.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
+<div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
