@@ -11,14 +11,6 @@ header:
 permalink           : "/guia-rapida/"
 ---
 
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
-
-
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
 
 ---
