@@ -11,6 +11,14 @@ header:
 permalink           : "/guia-rapida/"
 ---
 
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
+
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
 
 ---
@@ -18,13 +26,6 @@ permalink           : "/guia-rapida/"
 La función principal del Portal de Biodiversidad es la digitalización de Colecciones Biológicas de Guatemala. Sin embargo, también conforma una plataforma robusta para acceder a la información de biodiversidad del país, obtenida de diversas fuentes. El Portal posee varias opciones de búsqueda de información, dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal.
 
 ---
-
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
 
 ## Acerca del Portal de Biodiversidad de Guatemala
 
@@ -44,7 +45,6 @@ Los usuarios no necesitan una cuenta para utilizar las funciones de búsqueda de
 ![NuevoPerfil](https://github.com/biodiversidadgt/docs/assets/69399374/1f5ce5a7-7f34-479a-b2b9-534bd3eca0b6)
 
 ---
-
 
 ## Curadores y Encargados de Colecciones
 
@@ -78,9 +78,6 @@ El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registr
 ![MapaColor](https://biodiversidadgt.github.io/docs/images/Mapacolor.jpg)
 
 ---
-
-A continuación pueden encontrar una secuencia de ejercicios para dar un recorrido por las principales funciones de búsqueda del Portal de Biodiversidad de Guatemala.
-
 
 ## ¿Más preguntas?
 
