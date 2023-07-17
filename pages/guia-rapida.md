@@ -15,7 +15,7 @@ show_metadata: false
 permalink           : "/guia-rapida/"
 ---
 
-<img src="https://github.com/biodiversidadgt/docs/images/biodiversidadgt.jpg" alt="poster" width="280" height="400">
+<img src="https://github.com/biodiversidadgt/docs/blob/gh-pages/images/biodiversidadgt.jpg?raw=true" alt="biodiversidad.gt">
 
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
 
