@@ -8,7 +8,7 @@ header:
    image_fullwidth: "header_pluma.jpg"
    caption: Imagen por Sara L. Ríos
 image: 
-   thumb: biodiversidadgt.jpg
+   thumb: Mapacolor.jpg
 ---
 
 <div class="row">
