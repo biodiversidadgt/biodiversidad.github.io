@@ -8,7 +8,7 @@ header:
        image_fullwidth: "header_pluma.jpg"
        caption: Imagen por Sara L. Ríos
 image: 
-      thumb: biodiversidadgt.jpg
+      thumb: Mapacolor.jpg
 mediaplayer: true
 show_metadata: false           
 permalink           : "/guia-rapida/"
