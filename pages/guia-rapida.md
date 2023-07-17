@@ -7,17 +7,14 @@ teaser              : "Bienvenidos a la Guía Rápida del Portal de Biodiversida
 header: 
        image_fullwidth: "header_pluma.jpg"
        caption: Imagen por Sara L. Ríos
-image:
-      homepage: biodiversidadgt.jpg
-      thumb: biodiversidadgt.jpg 
 mediaplayer: true
 show_metadata: false           
 permalink           : "/guia-rapida/"
 ---
 
-<img src="https://github.com/biodiversidadgt/docs/blob/gh-pages/images/biodiversidadgt.jpg?raw=true" alt="biodiversidad.gt">
-
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/91f6d286-94c0-4c09-8605-d51306728af9)
+
+<img class="t60" src="{{ site.urlimg }}biodiversidadgt.jpg" alt="">
 
 ---
 
