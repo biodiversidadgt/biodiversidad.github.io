@@ -7,7 +7,8 @@ permalink: "/curadores/"
 header:
    image_fullwidth: "header_pluma.jpg"
    caption: Imagen por Sara L. Ríos
-   thumb: biodiversidadgt.jpg
+image: biodiversidadgt.jpg
+
 ---
 
 <div class="row">
