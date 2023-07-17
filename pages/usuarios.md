@@ -6,8 +6,9 @@ teaser: "Documentación para usuarios, enfocada en la búsqueda y uso de datos d
 permalink: "/usuarios/"
 header:
    image_fullwidth: "header_pluma.jpg"
-   thumb: biodiversidadgt.jpg
    caption: Imagen por Sara L. Ríos
+image: 
+   thumb: biodiversidadgt.jpg
 ---
 
 <div class="row">
