@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Ingreso de Datos en el Portal de Biodiversidad"
 subheadline: "Curadores"
-teaser: "Información para curadores y editores."
+teaser: "Una vez se cuente con un perfil virtual de manejo de colecciones, los encargados están listos para iniciar con el ingreso de datos en el Portal de Biodiversidad."
 permalink: "/curadores/ingreso-datos/"
 header:
    image_fullwidth: "header_pluma.jpg"
