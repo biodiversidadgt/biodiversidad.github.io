@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 title: "Listados de Especies"
-subheadline: "Usuarios"
+subheadline: "Curadores y Taxónomos"
 teaser: "Los usuarios registrados en el Portal de Biodiversidad pueden generar listados de especies desde sus cuentas, una vez cuenten con los permisos de acceso necesarios. Los listados de especies pueden ser privados o públicos, y pueden ser personalizados según los intereses de los investigadores."
-permalink: "/taxonomos/listados/"
+permalink: "/curadores/listados/"
 header:
    image_fullwidth: "header_pluma.jpg"
    caption: Imagen por Sara L. Ríos
