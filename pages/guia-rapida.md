@@ -75,6 +75,9 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 
 `¡Ya pueden empezar a digitalizar!`
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/ingreso-datos/">Ingreso de Datos ›</a>
+
+
 ---
 
 ## Funciones para Investigadores y Usuarios Generales
@@ -91,8 +94,8 @@ El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registr
 
 Contamos con extenso portafolio de [documentación][1] y recursos disponibles en español para conocer más acerca de las funciones del [Portal de Biodiversidad](https://biodiversidad.gt). No duden en contactar a los [administradores](https://biodiversidadgt.github.io/docs/contactos/) para obtener atención personalizada.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para curadores ›</a>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para usuarios ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para Curadores ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para Usuarios ›</a>
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentacion/
