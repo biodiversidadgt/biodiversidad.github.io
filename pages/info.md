@@ -16,7 +16,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 
 Esta plataforma ya cuenta con más de 300 usuarios, incluyendo curadores, investigadores y estudiantes que se encuentran trabajando con la digitalización de las colecciones en la Universidad del Valle de Guatemala, la Universidad de San Carlos de Guatemala, y el Centro Universitario de Zacapa. Todos los curadores o encargados de colecciones biológicas en instituciones científicas nacionales y organizaciones dedicadas al estudio de la biodiversidad, pueden solicitar un perfil para manejar su colección. Los usuarios generales pueden explorar los datos e imágenes sin necesidad de crear un usuario, sin embargo, recomendamos que los datos sean descargados a través de [GBIF](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) y se [citen](https://www.gbif.org/es/article/37tpGiBDc40oSAmKIWWC24/guia-para-citar) con el DOI generado en la descarga para que su cita sea contabilizada.
 
-![image](https://github.com/biodiversidadgt/docs/assets/69399374/1d2a4114-267d-4674-9952-0f9b738f56d5)
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/7b2f12c4-c33e-44ef-891c-80a1e403c192)
 
 ## Contenido de este sitio
 
@@ -25,4 +25,5 @@ Esta plataforma ya cuenta con más de 300 usuarios, incluyendo curadores, invest
 * [Noticias](https://biodiversidadgt.github.io/docs/blog/) 
 * [Contactos](https://biodiversidadgt.github.io/docs/contactos/)
 
-![image](https://github.com/biodiversidadgt/docs/assets/69399374/7b2f12c4-c33e-44ef-891c-80a1e403c192)
+![PoweredBy](https://github.com/biodiversidadgt/docs/assets/69399374/c8916188-5304-4005-8a50-46a27b0cc278)
+
