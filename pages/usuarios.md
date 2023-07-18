@@ -116,3 +116,7 @@ Pueden citarse colecciones completas, pero lo más recomendado es realizar una d
 
 - **GBIF.org**. (16 July 2023) GBIF Occurrence Download [https://doi.org/10.15468/dl.4cvuwc](https://doi.org/10.15468/dl.4cvuwc)
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+
