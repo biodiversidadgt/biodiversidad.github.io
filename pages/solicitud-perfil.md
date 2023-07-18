@@ -15,14 +15,14 @@ permalink: "/curadores/solicitud-perfil/"
 
 ![Portal2](https://github.com/biodiversidadgt/docs/assets/69399374/20642191-2903-4c9d-a40e-6d48e9cf7a58)
 
-Con el usuario activado, solicitar la creación del perfil de la colección a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/), enviando la siguiente información:
+Con una cuenta de usuario activada, solicitar la creación del perfil virtual de la colección a los [administradores del Portal](https://biodiversidadgt.github.io/docs/contactos/), enviando la siguiente información:
 
 - Nombre y acrónimo de la universidad o institución.
 - Nombre, acrónimo y descripción de la colección.
 - Nombre y contacto del curador.
 - Tipo de perfil que desea generar.
-- 
-Una vez generado el perfil, el solicitante será añadido como administrador del perfil y podrá iniciar con el ingreso de datos.
+  
+Una vez generado el perfil, el solicitante será añadido como **administrador del perfil** y podrá iniciar con el ingreso de datos.
 
 ---
 
