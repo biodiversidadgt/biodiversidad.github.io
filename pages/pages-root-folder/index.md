@@ -10,7 +10,7 @@ header:
     caption: Imagen por Sara L. Ríos
 image:
     thumb: "Mapacolor.jpg"
-teaser: El <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a> es una plataforma especializada, basada en <a href='https://symbiota.org/es'>Symbiota</a>, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por <a href='https://biodiversidadgt.github.io/docs/contactos/'>biólogos guatemaltecos</a> y mantenido por el <a href='https://symbiota.org/ayuda/'>Symbiota Support Hub</a> y el [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/) de Arizona State University, en apoyo a instituciones científicas nacionales. 
+teaser: El <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a> es una plataforma especializada, basada en <a href='https://symbiota.org/es'>Symbiota</a>, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por <a href='https://biodiversidadgt.github.io/docs/contactos/'>biólogos guatemaltecos</a> y mantenido por el <a href='https://symbiota.org/ayuda/'>Symbiota Support Hub</a> y el <a href= 'https://biokic.asu.edu/'>Biodiversity Knowledge Integration Center</a> de Arizona State University, en apoyo a instituciones científicas nacionales. 
 
 widget1:
   title: "Documentación Para Curadores"
