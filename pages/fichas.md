@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Fichas de Especies"
-subheadline: "Usuarios"
+subheadline: "Curadores y Taxónomos"
 teaser: "El Portal de Biodiversidad está programado para generar fichas de especies automáticamente, a partir de los nombres científicos ingresados en el tesauro taxonómico."
 permalink: "/curadores/fichas/"
 header:
