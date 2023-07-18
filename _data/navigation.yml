@@ -18,7 +18,7 @@
     url: "/curadores/solicitud-perfil/"
   - title: "Ingreso de Datos"
     url: "/curadores/ingreso-datos/"
-- title: "Listados de Especies"
+  - title: "Listados de Especies"
     url: "/curadores/listados/"
   - title: "Fichas de Especies"
     url: "/curadores/fichas/"
