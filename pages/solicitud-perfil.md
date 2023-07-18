@@ -22,6 +22,8 @@ Una vez generado el perfil, el solicitante será añadido como administrador del
 
 ---
 
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/ingreso-datos/">Ingreso de Datos ›</a>
+
 
 
 
