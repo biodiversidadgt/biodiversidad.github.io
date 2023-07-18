@@ -22,7 +22,16 @@
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
-     
+
+- title: "Taxónomos"
+  url: "/taxonomos/"
+  side: left
+ dropdown:
+  - title: "Listados de Especies"
+    url: "/taxonomos/listados/"
+  - title: "Fichas de Especies"
+    url: "/curadores/fichas/"
+
 - title: Blog
   url: "/blog/"
   side: left
