@@ -15,7 +15,7 @@
   side: left
   dropdown:
   - title: "Ingreso de Datos"
-    url: "/curadores/ingreso-de-datos/"
+    url: "/ingreso-de-datos/"
 
 - title: "Usuarios"
   url: "/usuarios/"
