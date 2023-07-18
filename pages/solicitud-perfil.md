@@ -13,7 +13,7 @@ image:
 permalink: "/curadores/solicitud-perfil/"
 ---
 
-![Portal](https://github.com/biodiversidadgt/docs/assets/69399374/162df82e-51a9-4ae9-b2d8-29b42d398ae4)
+![Portal2](https://github.com/biodiversidadgt/docs/assets/69399374/20642191-2903-4c9d-a40e-6d48e9cf7a58)
 
 Con el usuario activado, solicitar la creación del perfil de la colección a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/), enviando la siguiente información:
 
