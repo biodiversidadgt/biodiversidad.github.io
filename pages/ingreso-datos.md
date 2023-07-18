@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Ingreso de Datos"
 subheadline: "Curadores"
 teaser: "Información para curadores y editores."
-permalink: "/ingreso-datos/"
+permalink: "/curadores/ingreso-datos/"
 header:
    image_fullwidth: "header_pluma.jpg"
    caption: Imagen por Sara L. Ríos
