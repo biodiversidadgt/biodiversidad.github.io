@@ -65,18 +65,7 @@ Perfil virtual visto por un editor, únicamente con el panel respectivo activado
 
 ---
 
-## Solicitar un Perfil Virtual en el Portal de Biodiversidad
-
-Los curadores o encargados de las colecciones pueden solicitar uno o varios perfiles virtuales para sus colecciones, una vez hayan evaluado el tipo de datos que poseen (i.e. especímenes u observaciones) y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot).
-
-Con una [cuenta activa](https://biodiversidad.gt/portal/profile/newprofile.php), los curadores pueden solicitar la creación del perfil de la colección a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/), enviando la siguiente información:
-
-- Nombre y acrónimo de la universidad o institución.
-- Nombre, acrónimo y descripción de la colección.
-- Nombre y contacto del curador.
-- Tipo de perfil que desea generar (manejo directo o snapshot).
-- Tipo de registros que desea manejar (especímenes u observaciones).
-- Una vez generado el perfil, el solicitante será añadido como administrador del perfil y podrá iniciar con el ingreso de datos.
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/solicitud-perfil/">Solicitar Perfir Virtual ›</a>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
