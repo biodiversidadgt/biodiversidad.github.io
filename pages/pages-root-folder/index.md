@@ -15,7 +15,7 @@ teaser: El <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatema
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
-  image: Portal.jpg
+  image: Portal2.jpg
   text: 'Doucumentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
 widget2:
   title: "Documentación para Usuarios"
