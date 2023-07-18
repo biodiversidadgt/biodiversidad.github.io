@@ -14,8 +14,10 @@
   url: "/curadores/"
   side: left
   dropdown:
+  - title: "Solicitud de Perfil"
+    url: "/curadores/solicitud-perfil/"
   - title: "Ingreso de Datos"
-    url: "/ingreso-datos/"
+    url: "/curadores/ingreso-datos/"
 
 - title: "Usuarios"
   url: "/usuarios/"
