@@ -26,20 +26,23 @@ breadcrumb: true
 
 ---
 
-El ingreso directo de datos es una de las características principales de las colecciones manejadas en vivo en el Portal. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos. Únicamente los administradores y editores de cada colección tienen acceso a ingresar datos directamente.
+El ingreso directo de datos es una de las características principales de las colecciones manejadas en vivo en el Portal. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos. Únicamente los **administradores** y **editores** de cada colección **tienen acceso** a ingresar datos directamente.
 
 ---
 
 ### Formulario de Ingreso de Datos
 
-Notar que cada sección de campos puede expandirse, dando click en el `ícono del lápiz`.
+El formulario de datos del Portal de Biodiversidad de Guatemala, contiene todos los campos necesarios para ingresar la información contenida en etiquetas, hacer anotaciones, insertar imágenes, georreferenciar, y muchas otras funciones de edición y administración.
+
+Para utilizar el formulario debe seguir los siguientes pasos:
 
 - Dirigirse al [Portal de Biodiversidad](https://biodiversidad.gt) e iniciar sesión.
-- Una vez en el portal, ir a “Mi Perfil” (My profile).
-- En “Mi Perfil”, seleccionar “Manejo de Especímenes” (Specimen Management).
-- Al ingresar en Manejo de Especímenes, seleccionar la colección en la que se desea trabajar en el recuadro de “Manejo de Colecciones” (Collection Management).
-- Al ingresar en la colección deseada, seleccionar “Agregar Nuevo Registro de Ocurrencia” (Add New Occurrence Record).
+- Una vez en el portal, ir a `Mi Perfil` (My profile).
+- En Mi Perfil, seleccionar `Manejo de Especímenes` (Specimen Management).
+- Al ingresar en Manejo de Especímenes, seleccionar la colección en la que se desea trabajar en el recuadro de `Manejo de Colecciones` (Collection Management).
+- Al ingresar en la colección deseada, seleccionar `Agregar Nuevo Registro de Ocurrencia` (Add New Occurrence Record).
 - El formulario está listo para ingresar los datos de los especímenes.
+- Notar que cada sección de campos puede expandirse, dando click en el `ícono del lápiz`.
 
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/9b813683-1541-49fd-9dce-56811ff83c17)
 Formulario de ingreso de datos en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt).
