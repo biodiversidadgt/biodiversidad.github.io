@@ -18,20 +18,15 @@
     url: "/curadores/solicitud-perfil/"
   - title: "Ingreso de Datos"
     url: "/curadores/ingreso-datos/"
+- title: "Listados de Especies"
+    url: "/curadores/listados/"
+  - title: "Fichas de Especies"
+    url: "/curadores/fichas/"
 
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
-
-- title: "Taxónomos"
-  url: "/taxonomos/"
-  side: left
- dropdown:
-  - title: "Listados de Especies"
-    url: "/taxonomos/listados/"
-  - title: "Fichas de Especies"
-    url: "/taxonomos/fichas/"
-
+  
 - title: Blog
   url: "/blog/"
   side: left
