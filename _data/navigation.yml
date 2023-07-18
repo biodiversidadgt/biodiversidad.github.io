@@ -13,7 +13,10 @@
 - title: "Curadores"
   url: "/curadores/"
   side: left
-  
+  dropdown:
+  - title: "Ingreso de Datos"
+    url: "/curadores/ingreso-de-datos/"
+
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
