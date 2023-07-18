@@ -9,6 +9,7 @@ header:
    caption: Imagen por Sara L. Ríos
 image: 
     thumb: Mapacolor.jpg 
+breadcrumb: true
 ---
 
 <div class="row">
