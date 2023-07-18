@@ -48,7 +48,7 @@ Dependiendo de las actividades que buscan ser realizadas en el Portal de Biodive
 
 - `Usuarios generales:` Únicamente desean explorar los datos contenidos en el Portal. No necesitan realizar más acciones luego de generar su cuenta.
 
-- `Curadores o encargados de colecciones:` Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios perfiles de manejo de colecciones a los administradores del Portal.
+- `Curadores o encargados de colecciones:` Desean formar parte del Portal de Biodiversidad. Pueden solicitar uno o varios perfiles de manejo de colecciones a los [administradores del Portal](https://biodiversidadgt.github.io/docs/contactos/).
 
 - `Integrantes de colecciones:` Desean formar parte de alguno de los perfiles de colecciones existentes. Pueden solicitar permisos de acceso a los encargados o administradores de las colecciones de su interés.
 
@@ -71,7 +71,7 @@ Recomendado para colecciones manejadas en otros sistemas o ya publicadas en otro
 
 Los encargados de las colecciones también deben tener en cuenta el **tipo de registros** que van a digitalizar (especímenes preservados, ejemplares vivos, fósiles, observaciones) y el **grupo taxonómico** en el que se enfoca la colección.
 
-Una vez se tenga clara la información anterior, los encargados de las colecciones pueden contactar a los **administradores del portal** con los datos de su colección y de al menos una persona encargada para solicitar sus perfiles virtuales.
+Una vez se tenga clara la información anterior, los encargados de las colecciones pueden contactar a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/) con los datos de su colección y de al menos una persona encargada para solicitar sus perfiles virtuales.
 
 `¡Ya pueden empezar a digitalizar!`
 
@@ -81,7 +81,7 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 
 Los registros publicados en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) poseen licencias de libre acceso CC0 1.0, CC-BY o CC-BY-NC, por lo que pueden ser explorados por todos los usuarios. Sin embargo, se recomienda utilizar la plataforma [GBIF](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para descargar registros destinados a publicaciones, y así poder obtener un DOI con el que las colecciones pueden ser citadas. Si se descargan datos directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda.
 
-El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registros e imágenes. No es necesario que los usuarios generen una cuenta para realizar estas acciones, sin sin embargo, deben estar registrados para tener acceso a herramientas adicionales como los editores de listados de especies y conjuntos de datos. Contactar a los **administradores del Portal** para solicitar acceso a estas herramientas.
+El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registros e imágenes. No es necesario que los usuarios generen una cuenta para realizar estas acciones, sin sin embargo, deben estar registrados para tener acceso a herramientas adicionales como los editores de listados de especies y conjuntos de datos. Contactar a los [administradores del Portal](https://biodiversidadgt.github.io/docs/contactos/) para solicitar acceso a estas herramientas.
 
 ![MapaColor](https://biodiversidadgt.github.io/docs/images/Mapacolor.jpg)
 
@@ -89,7 +89,7 @@ El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registr
 
 ## ¿Más preguntas?
 
-Contamos con extenso portafolio de [documentación][1] y recursos disponibles en español para conocer más acerca de las funciones del Portal de Biodiversidad. No duden en contactar a los administradores para obtener atención personalizada.
+Contamos con extenso portafolio de [documentación][1] y recursos disponibles en español para conocer más acerca de las funciones del [Portal de Biodiversidad](https://biodiversidad.gt). No duden en contactar a los [administradores](https://biodiversidadgt.github.io/docs/contactos/) para obtener atención personalizada.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para curadores ›</a>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para usuarios ›</a>
