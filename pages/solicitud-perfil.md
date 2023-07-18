@@ -20,6 +20,10 @@ Con el usuario activado, solicitar la creación del perfil de la colección a lo
 - 
 Una vez generado el perfil, el solicitante será añadido como administrador del perfil y podrá iniciar con el ingreso de datos.
 
+---
+
+
+
 
 
 
