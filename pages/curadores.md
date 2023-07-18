@@ -65,7 +65,7 @@ Perfil virtual visto por un editor, únicamente con el panel respectivo activado
 
 ---
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/solicitud-perfil/">Solicitar Perfir Virtual ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitar Perfir Virtual ›</a>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
