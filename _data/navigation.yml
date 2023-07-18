@@ -30,7 +30,7 @@
   - title: "Listados de Especies"
     url: "/taxonomos/listados/"
   - title: "Fichas de Especies"
-    url: "/curadores/fichas/"
+    url: "/taxonomos/fichas/"
 
 - title: Blog
   url: "/blog/"
