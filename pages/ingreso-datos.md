@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Ingreso de Datos"
+title: "Ingreso de Datos en el Portal de Biodiversidad"
 subheadline: "Curadores"
 teaser: "Información para curadores y editores."
 permalink: "/curadores/ingreso-datos/"
@@ -29,8 +29,6 @@ breadcrumb: true
 El ingreso directo de datos es una de las características principales de las colecciones manejadas en vivo en el Portal. Aquí pueden transcribirse directamente los datos que encontramos en las etiquetas de los especímenes, para digitalizarlos. Únicamente los administradores y editores de cada colección tienen acceso a ingresar datos directamente.
 
 ---
-
-## Ingreso Directo de Datos en el Portal de Biodiversidad
 
 ### Formulario de Ingreso de Datos
 
