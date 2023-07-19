@@ -2,13 +2,12 @@
   url: "/"
   side: left
 
-- title: Datos de Biodiversidad
-  url: "/datos/"
-  side: left
-  
 - title: Guía Rápida
   url: "/guia-rapida/"
   side: left
+  dropdown:
+  - title: "Datos de Biodiversidad"
+    url: "/datos/"
 
 - title: "Curadores"
   url: "/curadores/"
