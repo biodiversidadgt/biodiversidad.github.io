@@ -50,7 +50,7 @@ Para más información acerca de la generación de listados de especies, pueden 
 
 Al digitalizar especímenes u observaciones, los datos y fotografías se van agregando a la ficha de cada especie en particular. Además, es posible agregar pestañas de información, con referencias de los reportes en Guatemala, estado de conservación, y enlaces a plataformas externas como Encyclopedia of Life, entre otros.
 
-![image](https://github.com/biodiversidadgt/docs/assets/69399374/f7d0ad9a-6fce-4df1-af84-55a89cce7af6)
+[![image](https://github.com/biodiversidadgt/docs/assets/69399374/f7d0ad9a-6fce-4df1-af84-55a89cce7af6)](https://biodiversidad.gt/portal/taxa/index.php?tid=4023&taxauthid=1&clid=0)
 
 Únicamente los usuarios registrados con permisos taxonómicos (especialistas de los distintos grupos) pueden editar las fichas de especies. Los usuarios también pueden alimentar directamente las fichas de especies, solicitando acceso a los perfiles para investigadores ([animales](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=93), [plantas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=92), [hongos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=115)), desde donde pueden añadir imágenes y registros.
 
