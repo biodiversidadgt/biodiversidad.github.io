@@ -26,7 +26,11 @@
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
-  
+
+- title: "Taxónomos"
+  url: "/taxonomos/"
+  side: left
+
 - title: Blog
   url: "/blog/"
   side: left
