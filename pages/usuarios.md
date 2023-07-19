@@ -37,8 +37,7 @@ El Portal de [Biodiversidad de Guatemala](https://biodiversidad.gt) cuenta con v
 
 Para más información acerca de la búsqueda de información, pueden dirigirse a este [tutorial](https://www.youtube.com/watch?v=ZWF7ZwVcSwo), o a los [Documentos Symbiota](https://symbiota.org/docs).
 
-|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/c236adf8-7a8d-4f61-bcc6-8782e1cdb7e4)
-](https://www.youtube.com/watch?v=ZWF7ZwVcSwo)|
+|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/c236adf8-7a8d-4f61-bcc6-8782e1cdb7e4)](https://www.youtube.com/watch?v=ZWF7ZwVcSwo)|
 
 ---
 
@@ -55,8 +54,7 @@ Continuar hacia el formulario de búsqueda y escribir los detalles de la informa
 
 Los registros encontrados pueden ser desplegados en forma de lista o tabla para su exploración. Además, será elaborado un listado de especies (pestaña superior izquierda), y podrá generarse un mapa con los registros que posean coordenadas (pestaña superior derecha). Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse [**un vínculo permanente**](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2) (ícono de enlace) para guardar la búsqueda (**no copiar la URL generada en el navegador**).
 
-|[![BúsquedaQuercus](https://github.com/biodiversidadgt/docs/assets/69399374/36385e2e-6a0e-4257-a19c-aee2abce1204)
-](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2)|
+|[![BúsquedaQuercus](https://github.com/biodiversidadgt/docs/assets/69399374/36385e2e-6a0e-4257-a19c-aee2abce1204)](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2)|
 
 ---
 
