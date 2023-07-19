@@ -33,7 +33,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) cuenta con v
 Además, se incluye un proyecto de Listados Institucionales, donde se encuentran listados generados por instituciones y organizaciones dedicadas al estudio de la biodiversidad. Por ejemplo, el [Catálogo de Autoridades Taxonómicas](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4) manejado por el Centro de Datos para la Conservación (CDC), del Centro de Estudios Conservacionistas (CECON) de la USAC.
 
 [![catcdc](https://github.com/biodiversidadgt/docs/assets/69399374/b19bda9d-7cc8-404a-8a9f-8166df87aa20)
-](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4))
+](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4)
 
 Para más información acerca de la generación de listados de especies, pueden dirigirse a este [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los [Documentos Symbiota](https://biokic.github.io/symbiota-docs/es/). Para solicitar acceso a la herramienta o integrar sus listados en alguno de los proyectos de inventario, contactar a los [administradores del Portal](https://biodiversidadgt.github.io/docs/contactos/). 
 
