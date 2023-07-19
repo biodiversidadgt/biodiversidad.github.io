@@ -32,7 +32,7 @@ El ingreso directo de datos es una de las características principales de las co
 
 ### Formulario de Ingreso de Datos
 
-El formulario de datos del Portal de Biodiversidad de Guatemala, contiene todos los campos necesarios para ingresar la información contenida en etiquetas, hacer anotaciones, insertar imágenes, georreferenciar, y muchas otras funciones de edición y administración.
+El formulario de datos del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), contiene todos los campos necesarios para ingresar la información contenida en etiquetas, hacer anotaciones, insertar imágenes, georreferenciar, y muchas otras funciones de edición y administración.
 
 Para utilizar el formulario debe seguir los siguientes pasos:
 
