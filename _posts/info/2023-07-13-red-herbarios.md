@@ -30,10 +30,10 @@ El jueves 13 de julio de 2023, se realizó la charla "Portales Symbiota como Her
 
 La grabación se encuentra disponible en el [canal de Youtube](https://www.youtube.com/watch?v=ihvChPHdxew) de la Red.
 
-|<img src="https://github.com/biodiversidadgt/docs/assets/69399374/b26c6b7f-dc15-4bd1-bb61-e551b2d6a1b3" alt="poster" width="280" height="400">|
-|<img src="https://github.com/biodiversidadgt/docs/assets/69399374/d7cbc28c-7423-4062-91a0-61527dca6616" alt="poster">|
-|<img src="https://github.com/biodiversidadgt/docs/assets/69399374/ee82bc88-dde2-4c10-a71e-444c0876b66b" alt="poster" width="660" height="400">|
 
+|[<img src="https://github.com/biodiversidadgt/docs/assets/69399374/d7cbc28c-7423-4062-91a0-61527dca6616" alt="poster">](https://www.youtube.com/watch?v=ihvChPHdxew)||Charla por Samanta Orellana, Arizona State University|
+|<img src="https://github.com/biodiversidadgt/docs/assets/69399374/ee82bc88-dde2-4c10-a71e-444c0876b66b" alt="poster" width="660" height="400">||Dra. Maura Quezada (Herbario USCG), Dr. Nico Franz y Samanta Orellana (Arizona State University)|
+|<img src="https://github.com/biodiversidadgt/docs/assets/69399374/b26c6b7f-dc15-4bd1-bb61-e551b2d6a1b3" alt="poster" width="280" height="400">||Afiche de la actividad "Hora Clorofila".|   
 
 
 
