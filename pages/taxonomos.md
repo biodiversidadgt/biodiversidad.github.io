@@ -25,45 +25,30 @@ image:
 
 ---
 
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) permite la generación de una gran diversidad de recursos interactivos para la documentación de especies del paísmo opciones de configuración que va a permitir distintos niveles de acceso, para una eficiente organización de las tareas de digitalización por parte de encargados, investigadores y estudiantes. 
-
-[![PerfilUSCG](https://github.com/biodiversidadgt/docs/assets/69399374/070a86f6-2d7f-4703-a0f3-80a58b76ca83)
-](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)
-Perfil virtual de la Colección de Hongos del Herbario USCG CECON de la USAC.
-
-## Tipos de Perfiles Virtuales   {#perfiles}
-
-Existen dos tipos de perfiles virtuales que pueden ser solicitados en el Portal de Biodiversidad, dependiendo del manejo que se le quiera dar a los datos.
-
-### Perfiles en vivo
-
-Los perfiles en vivo van a permitir el `manejo directo de los datos` dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad. Todas las colecciones de instituciones guatemaltecas manejadas actualmente en el Portal de Biodiversidad poseen perfiles de manejo en vivo. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21) de colección manejada en vivo.
-
-### Perfiles snapshot
-
-Los perfiles snapshot (imágenes) van a ser `copias de bases de datos existentes` en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles snapshot en el Portal de Biodiversidad. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=56) de colección snapshot.
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) permite la generación de una gran variedad de recursos interactivos para la documentación de especies del país.
 
 ---
 
-## Tipos de Permisos en los Perfiles Virtuales
+## Listados de Especies
 
-Únicamente los curadores pueden solicitar la generación de un perfil de colección, y son agregados automáticamente como administradores del perfil. Sin embargo, existe la posibilidad de agregar más usuarios en los perfiles, con distintos tipo de acceso.
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) cuenta con varios [Proyectos de Inventario](https://biodiversidad.gt/portal/projects/index.php), incluyendo listados de [Animales](https://biodiversidad.gt/portal/projects/index.php?pid=2), [Plantas](https://biodiversidad.gt/portal/projects/index.php?pid=1) y [Hongos](https://biodiversidad.gt/portal/projects/index.php?pid=3), generados automáticamente a partir de los registros de especímenes y observaciones incluidos en el portal.
 
-### Administradores del perfil
+[![inventario](https://github.com/biodiversidadgt/docs/assets/69399374/d16c4580-3281-49b7-a549-cdf14e0f7332)
+](https://biodiversidad.gt/portal/projects/index.php)
+Además, se incluye un proyecto de Listados Institucionales, donde se encuentran listados generados por instituciones y organizaciones dedicadas al estudio de la biodiversidad. Por ejemplo, el [Catálogo de Autoridades Taxonómicas](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4) manejado por el Centro de Datos para la Conservación (CDC), del Centro de Estudios Conservacionistas (CECON) de la USAC.
 
-Tienen acceso a todas las funciones de ingreso y edición de datos. Los administradores, además, pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
+[![catcdc](https://github.com/biodiversidadgt/docs/assets/69399374/b19bda9d-7cc8-404a-8a9f-8166df87aa20)
+](https://biodiversidad.gt/portal/checklists/checklist.php?clid=21&pid=4)
 
-![PerfilUSCGadmin](https://github.com/biodiversidadgt/docs/assets/69399374/c932cb52-d917-4b1a-81d2-c84ea322d5e8)
-Perfil virtual visto por un administrador, con todas las herramientas activadas.
+Para más información acerca de la generación de listados de especies, pueden dirigirse a este [tutorial](https://www.youtube.com/watch?v=onbvrSgfTRE) o a los [Documentos Symbiota](https://biokic.github.io/symbiota-docs/es/). Para solicitar acceso a la herramienta o integrar sus listados en alguno de los proyectos de inventario, contactar a los [administradores del Portal](https://biodiversidadgt.github.io/docs/contactos/). 
 
-### Editores del perfil
-
-Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, ni editar la información de la colección.
-
-![PerfilUSCGeditor](https://github.com/biodiversidadgt/docs/assets/69399374/f1956e6f-9d5e-4c63-af79-025071df11ca)
-Perfil virtual visto por un editor, únicamente con el panel respectivo activado.
+[![image](https://github.com/biodiversidadgt/docs/assets/69399374/479eb51a-f2e8-4650-a8be-5b54cd2a9d89)](https://www.youtube.com/watch?v=onbvrSgfTRE)
 
 ---
+
+## Fichas de Especies
+
+
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitar Perfil Virtual ›</a>
 
