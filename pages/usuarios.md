@@ -96,17 +96,17 @@ La información contenida en el [Portal de Biodiversidad de Guatemala](https://b
 
 ### Desde el Portal de Biodiversidad
 
-Para el uso de datos específicos, se recomienda generar un vínculo permanente para ser incluido en la cita de los datos. 
+Cada perfil de colección tiene una sugerencia de cita. Para el uso de datos específicos, se recomienda generar un vínculo permanente para ser incluido en la cita de los datos. 
 
-**Cita General del Portal**
+`Cita General del Portal`
 
 - **Biodiversidad de Guatemala.** 2023. [https://biodiversidad.gt](https://biodiversidad.gt). Accesado en July 11.
 
-**Datos de instituciones específicas**
+`Datos de instituciones específicas`
 
 - **Biodiversidad de Guatemala**. 2023. Datos de ocurrencia de biodiversidad publicados por: Escuela de Biología USAC, y Centro de Estudios Conservacionistas USAC (Accesado por medio del Portal de Biodiversidad de Guatemala, [https://biodiversidad.gt](https://biodiversidad.gt), 2023-07-11).
 
-**Datos de colecciones individuales**
+`Datos de colecciones individuales`
 
 - **Universidad de San Carlos de Guatemala**. 2023. Colección de Cnidarios. Occurrence dataset (ID: c9c24162-f674-422c-ab11-61c0d7abaaf8) [https://biodiversidad.gt/portal/content/dwca/USAC-USACNIDARIOS_DwC-A.zip](https://biodiversidad.gt/portal/content/dwca/USAC-USACNIDARIOS_DwC-A.zip) accesado por medio del Portal de Biodiversidad de Guatemala, 2023-07-16). 
 
