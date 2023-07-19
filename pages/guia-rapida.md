@@ -20,7 +20,7 @@ La función principal del Portal de Biodiversidad es la digitalización de Colec
 
 <img class="t60" src="{{ site.urlimg }}biodiversidadgt.jpg" alt="">
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Datos de Biodiversidad ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Conozca más acerca de Datos de Biodiversidad ›</a>
 
 ---
 
