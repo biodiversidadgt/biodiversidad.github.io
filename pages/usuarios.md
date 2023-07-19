@@ -84,7 +84,9 @@ Las imágenes incluídas en los registros de especímenes u observaciones dispon
 
 Para realizar una búsqueda de las imagenes disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de [Imágenes](https://biodiversidad.gt/portal/imagelib/search.php) en el menú superior. Una vez en esa ventana, se debe seleccionar la especie o grupo taxonómico deseado, fotógrafo, tipo de imagen, y colecciones que desean ser incluidas (en caso de buscar imágenes de especímenes preservados o etiquetas).
 
-Las imágenes encontradas serán desplegadas para su exploración. No hay forma de generar un enlace permanente para guardar la búsqueda, por lo que deben citarse los enlaces individuales de cada imagen. Por favor revisar los derechos de uso, antes de descargar y utilizar las imágenes.
+Las imágenes encontradas serán desplegadas para su exploración. No hay forma de generar un enlace permanente para guardar la búsqueda, por lo que deben citarse los enlaces individuales de cada imagen. Por favor revisar los derechos de uso y licencias antes de descargar y utilizar las imágenes.
+
+![imagesearch](https://github.com/biodiversidadgt/docs/assets/69399374/e735deef-f357-4bdf-8e93-c916cdc01ff9)
 
 ---
 
