@@ -18,7 +18,7 @@ permalink           : "/guia-rapida/"
 
 La función principal del Portal de Biodiversidad es la digitalización de Colecciones Biológicas de Guatemala. Sin embargo, también conforma una plataforma robusta para acceder a la información de biodiversidad del país, obtenida de diversas fuentes. El Portal posee varias opciones de búsqueda de información, dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal.
 
-|<img class="t60" src="{{ site.urlimg }}Portal2.jpg" alt="">|
+|<img class="t60" src="{{ site.urlimg }}biodiversidadgt.jpg" alt="">|
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Datos de Biodiversidad ›</a>
 
