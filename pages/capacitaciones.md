@@ -52,13 +52,13 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 
 - Orellana, S. (2021, Octubre). **Digitalización de Colecciones de Historia Natural en Guatemala y la Importancia al Acceso de la Información de Biodiversidad.** Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589).
 
-- **Orellana, S.** (2021, Agosto). Introducción al Portal de Biodiversidad de Guatemala. Conferencista Invitada. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
+- Orellana, S. (2021, Agosto). **Introducción al Portal de Biodiversidad de Guatemala. Conferencista Invitada.** I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
 
-- **Orellana, S.** (2021, Julio). Importancia de las Colecciones Biológicas en el estudio de la biodiversidad. Conferencista Invitada. Curso de Botánica, Facultad de Ciencias Agrícolas, Universidad Rafael Landívar, Guatemala City, Virtual.
+- Orellana, S. (2021, Julio). **Importancia de las Colecciones Biológicas en el estudio de la biodiversidad.** Conferencista Invitada. Curso de Botánica, Facultad de Ciencias Agrícolas, Universidad Rafael Landívar, Guatemala City, Virtual.
 
-- **Orellana, S.** (2021, Abril). Symbiota: Una plataforma para movilzar, integrar y utilizar datos de colecciones biológicas. Serie de Webinars, Sistema de Información sobre Biodiversidad de Colombia, Virtual.
+- Orellana, S. (2021, Abril). **Symbiota: Una plataforma para movilzar, integrar y utilizar datos de colecciones biológicas.** Serie de Webinars, Sistema de Información sobre Biodiversidad de Colombia, Virtual.
 
-- **Orellana, S.** (2021, Febrero). Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala. Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Virtual.
+- Orellana, S. (2021, Febrero). **Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala.** Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Virtual.
 
 --- 
 
