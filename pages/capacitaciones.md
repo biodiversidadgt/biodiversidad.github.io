@@ -29,14 +29,16 @@ Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacio
 
 Una gran cantidad de plataformas especializadas están disponibles para el manejo adecuado de datos de biodiversidad, dependiendo del tipo de registros. El **Portal de Biodiversidad de Guatemala** está basado en la plataforma , que permite el manejo de datos tanto de especímenes, como de observaciones.     
 
-[![image](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portalPortalDesign.jpg?raw=true)
-](https://biodiversidad.gt)
 
 ---
 
 ## Conferencias
 
-- Orellana, S (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario.** II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. Grabación.
+|![RHMC](https://github.com/biodiversidadgt/docs/assets/69399374/38412a98-8a34-49a7-a5f2-d1117fa3b5d9)|
+
+- Orellana, S. (2023, Junio). **Portales Symbiota: Herramientas de Digitalización de Colecciones de Herbario**. Red de Herbarios de Mesoamérica y el Caribe. [Grabación](https://www.youtube.com/watch?v=ihvChPHdxew).
+
+- Orellana, S. (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario.** II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. Grabación.
 
 - Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal.** Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
@@ -58,7 +60,12 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 
 - **Orellana, S.** (2021, Febrero). Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala. Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Virtual.
 
+--- 
+
 ### Talleres
+
+|![Recorrido](https://github.com/biodiversidadgt/docs/assets/69399374/d920dc13-bbd8-4bb7-9355-027802b5ec4b)|
+
 
 - Orellana, S. (2023, Marzo).** Un Recorrido por el Portal de Biodiversidad. **Dirigido a curadores y usuarios en Guatemala, Virtual. Grabación.
 
@@ -77,5 +84,17 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 - López, Z. (2021, Agosto). **I Taller de Digitalización de Colecciones Biológicas**, Universidad del Valle de Guatemala, Guatemala, Virtual.
 
 - Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
+
+## Divulgación
+
+- Walker, L. & K.S. Orellana. (2022, Agosto). **Sharing Guatemala’s Biodiversity through Symbiota.** iDigBio Research Spotlight: August 2022. Disponible en [https://www.idigbio.org/tags/portal](https://www.idigbio.org/tags/portal)
+
+- Orellana, K.S. (2021, Mayo). **The Guatemala Biodiversity Portal, a national digitization effort using Symbiota.** iDigBio Research Spotlight: May 2021. Disponible en: [https://www.idigbio.org/content/research-spotlight-may-2021](https://www.idigbio.org/content/research-spotlight-may-2021)
+
+Canal de Youtube [Portal de Biodiversidad de Guatemala](https://www.youtube.com/channel/UCnoJ8aoVCxmRwKwDFWRIxag)
+
+|![CicloDatos](https://github.com/biodiversidadgt/docs/assets/69399374/a595a19e-527d-476f-b913-4e67f1137bf4)|
+
+  
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
