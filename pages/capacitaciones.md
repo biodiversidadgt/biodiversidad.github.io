@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Capacitaciones"
 subheadline: "Charlas y Talleres"
 teaser: "Actividades de capacitación acerca del Portal de Biodiversidad de Guatemala."
-permalink: "/datos/"
+permalink: "/capacitaciones/"
 header:
    image_fullwidth: "header_pluma.jpg"
    caption: Imagen por Sara L. Ríos
