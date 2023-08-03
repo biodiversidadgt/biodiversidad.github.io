@@ -60,24 +60,22 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 
 ### Talleres
 
-Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros consisten en información contenida en `etiquetas de especímenes` depositados en colecciones científicas (plantas, animales, hongos, fósiles). Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) de colección de especímenes preservados.
+- Orellana, S. (2023, Marzo).** Un Recorrido por el Portal de Biodiversidad. **Dirigido a curadores y usuarios en Guatemala, Virtual. Grabación.
 
-[![image](https://github.com/biodiversidadgt/docs/assets/69399374/d1754118-980e-44c2-b719-2be3575d2eac)
-](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
-Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
+- Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
-### Registros de especímenes vivos
+- Orellana, S. (2022, Septiembre). **Digitalización y Movilización de Colecciones Biológicas con Symbiota.** Dirigido a curadores en Latinoamérica. Virtual. Grabación.
 
-Similares a los registros de especímenes preservados, pero la información proviene de `ejemplares vivos` en colecciones institucionales. Un ejemplo son los jardines botánicos que contienen ejemplares vivos de plantas. Requieren evidencia fotográfica.
+- Orellana, S. (2022, Agosto). **Digitalización de Datos de Biodiversidad y Recursos de Movilización en el Portal de Biodiversidad.** Dirigido a curadores, Virtual.
 
-### Registros de observaciones
+- Orellana, S. (2022, Marzo). **Mini Taller: Digitalización de Colecciones Biológicas en el Portal de Biodiversidad de Guatemala.** Taller dirigido a estudiantes de Biología, Virtual.
 
-Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=8) de colección de especímenes vivos.
+- Orellana, S. (2021, Diciembre). **El Portal de Biodiversidad de Guatemala: II Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
-[![image](https://github.com/biodiversidadgt/docs/assets/69399374/0c493177-cf6d-4f84-bee1-e601a093df33)
-](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-Fotografía: María José Chang. Colección Fotográfica UVGF.
+- Orellana, S., López, Z., Sánchez-Escalante, J., Bungartz, F., Cartuche, C. (2021, Octubre). **Taller Introducción a las Digitalización de Colecciones Biológicas con Symbiota. Organizadores y conferencistas.** XXIV Congreso de la Sociedad Mesoamericana para la Biología y la Conservación. Grabación.
 
+- López, Z. (2021, Agosto). **I Taller de Digitalización de Colecciones Biológicas**, Universidad del Valle de Guatemala, Guatemala, Virtual.
 
+- Orellana, S., López, Z. (2020, Diciembre). **Taller Virtual: Digitalización de Colecciones Biológicas con el Portal de Biodiversidad de Guatemala, y I Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa. Organizadora e instructora, Virtual.
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
