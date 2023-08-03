@@ -8,6 +8,8 @@
   dropdown:
   - title: "Datos de Biodiversidad"
     url: "/datos/"
+- title: "Capacitaciones"
+    url: "/capacitaciones/"
 
 - title: "Curadores"
   url: "/curadores/"
