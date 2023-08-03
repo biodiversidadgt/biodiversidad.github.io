@@ -25,24 +25,40 @@ image:
 
 ---
 
-Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacionados con el Portal de Biodiversidad de Guatemala o Symbiota. Las actividades, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.Los datos de biodiversidad provienen de registros de organismos en un tiempo y un espacio definido. Para hacer estos registros, se necesita evidencia en forma de `especímenes` depositados en colecciones biológicas, o de `observaciones` generalmente respaldadas con imágenes, videos o sonidos. Existen formatos estandarizados para la captura de datos de biodiversidad (incluyendo [Darwin Core](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029715)) para facilitar el manejo e intercambio de esta información entre distintas plataformas (ver principios [FAIR](https://www.go-fair.org/fair-principles/)). La entidad encargada de regular los estándares de datos de biodiversidad se denomina [TDWG](https://www.tdwg.org/), y está integrada por una extensa comunidad de informáticos, curadores, taxónomos y otros científicos asociados al estudio de la biodiversidad.
+Desde 2020, se han realizado al menos 25 conferencias, talleres y cursos relacionados con el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) o [Symbiota](https://symbiota.org). Las actividades, han tenido un alcance de más de 400 participantes en 18 países de América y Europa.
 
-Una gran cantidad de plataformas especializadas están disponibles para el manejo adecuado de datos de biodiversidad, dependiendo del tipo de registros. El **Portal de Biodiversidad de Guatemala** está basado en la plataforma [Symbiota](https://symbiota.org), que permite el manejo de datos tanto de especímenes, como de observaciones.     
+Una gran cantidad de plataformas especializadas están disponibles para el manejo adecuado de datos de biodiversidad, dependiendo del tipo de registros. El **Portal de Biodiversidad de Guatemala** está basado en la plataforma , que permite el manejo de datos tanto de especímenes, como de observaciones.     
 
-Más información acerca de datos de biodiversidad puede ser encontrada en esta [charla](https://www.youtube.com/watch?v=o6qCm_y6cvA) impartida en 2021, durante el XXIV  Congreso de la Sociedad Mesoamericana para la Biología y la Conservación.
-
-[![image](https://github.com/biodiversidadgt/docs/assets/69399374/a5c86f4b-b849-4501-839d-e2b27022b026)
-](https://www.youtube.com/watch?v=o6qCm_y6cvA)
-
-|`También disponible:` Charla ["Digitalización de Colecciones Biológicas de Guatemala y la Importancia del Acceso a la Información de Biodiversidad"](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589), impartida en 2021 para el Colegio de Farmacéuticos y Químicos Profesionales de Guatemala.|
+[![image](https://github.com/GuatemalaPortal/guatemalaportal.github.io/blob/main/static/portalPortalDesign.jpg?raw=true)
+](https://biodiversidad.gt)
 
 ---
 
-## Registros Aceptados en el Portal de Biodiversidad
+## Conferencias
 
-El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) permite el ingreso de `datos de especímenes` en un formato estandarizado (i.e. [Darwin Core](https://dwc.tdwg.org/)), que facilita su manejo e intercambio con otras plataformas de especializadas. Existen tres tipos de `registros de organismos` que pueden ser manejados en el Portal bajo estos estándares. La clasificación de los registros depende del origen y forma de respaldo de la información.
+- Orellana, S (2022, Noviembre). **Portales Symbiota como Herramientas de Digitalización de Colecciones de Herbario.** II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala, Virtual. Grabación.
 
-### Registros de especímenes preservados
+- Orellana, K.S., Gilbert, E., Walker, L. J., Pearson, K., Prado, L. R., Post, G., Yost, J., & Franz, N. (2022, Octubre). **Taxonomic Curation in a Multi-taxa Symbiota Portal.** Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
+
+- Orellana, S. (2022, Septiembre). **Portales Symbiota.** Conferencista Invitada. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia, Virtual.
+
+- Orellana, S. (2022, Septiembre). **Digitalizando Colecciones de Historia Natural en Guatemala.** Conferencista Invitada. Connecting Collections Workshop Series. Organizado por los nodos GBIF de Ecuador, Argentina, Guatemala y por la Sociedad para la Preservación de Colecciones de Historia Natural, Virtual. [Grabación](https://www.youtube.com/watch?v=lnlnVE7NaKo&t=1188s).
+
+- Orellana, S., Gilbert, E., Pearson, K., Walker, L., Prado, L., Post, G., Yost, J., & Franz, N. (2022, Junio). **Engaging Underrepresented Communities with Symbiota Portals.** iDigBio’s Digital Data Conference, Virtual. [Grabación en español](https://www.youtube.com/watch?v=bkq1NrKn8w4).
+
+- Orellana, S. (2022, Mayo). **Publicación de datos de biodiversidad hacia GBIF desde el Portal de Biodiversidad de Guatemala”**. Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589).
+
+- Orellana, S. (2021, Octubre). **Digitalización de Colecciones de Historia Natural en Guatemala y la Importancia al Acceso de la Información de Biodiversidad.** Conferencista Invitada. Colegio Profesional de Farmacéuticos y Químicos de Guatemala, Virtual. [Grabación](https://www.facebook.com/watch/live/?ref=watch_permalink&v=918191852416589).
+
+- **Orellana, S.** (2021, Agosto). Introducción al Portal de Biodiversidad de Guatemala. Conferencista Invitada. I Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala, Guatemala, Virtual.
+
+- **Orellana, S.** (2021, Julio). Importancia de las Colecciones Biológicas en el estudio de la biodiversidad. Conferencista Invitada. Curso de Botánica, Facultad de Ciencias Agrícolas, Universidad Rafael Landívar, Guatemala City, Virtual.
+
+- **Orellana, S.** (2021, Abril). Symbiota: Una plataforma para movilzar, integrar y utilizar datos de colecciones biológicas. Serie de Webinars, Sistema de Información sobre Biodiversidad de Colombia, Virtual.
+
+- **Orellana, S.** (2021, Febrero). Digitalización de colecciones biológicas con el Portal de Biodiversidad de Guatemala. Conferencista Invitada. Curso de Manejo de Colecciones Biológicas, Escuela de Biología, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Virtual.
+
+### Talleres
 
 Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Estos registros consisten en información contenida en `etiquetas de especímenes` depositados en colecciones científicas (plantas, animales, hongos, fósiles). Pueden incluir fotografías de los especímenes y/o etiquetas, pero no es requisito para ingresar los datos. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) de colección de especímenes preservados.
 
