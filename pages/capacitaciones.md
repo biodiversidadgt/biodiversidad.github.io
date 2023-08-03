@@ -67,7 +67,7 @@ Una gran cantidad de plataformas especializadas están disponibles para el manej
 |![Recorrido](https://github.com/biodiversidadgt/docs/assets/69399374/d920dc13-bbd8-4bb7-9355-027802b5ec4b)|
 
 
-- Orellana, S. (2023, Marzo).** Un Recorrido por el Portal de Biodiversidad. **Dirigido a curadores y usuarios en Guatemala, Virtual. Grabación.
+- Orellana, S. (2023, Marzo). **Un Recorrido por el Portal de Biodiversidad.** Dirigido a curadores y usuarios en Guatemala, Virtual. Grabación.
 
 - Orellana, S. (2022, Diciembre). **El Portal de Biodiversidad de Guatemala: III Reuinón Anual para Curadores.** Arizona State University, Universidad del Valle de Guatemala, Universidad de San Carlos de Guatemala. Organizadora e instructora, Virtual.
 
