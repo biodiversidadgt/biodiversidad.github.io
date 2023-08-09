@@ -15,8 +15,6 @@
   url: "/curadores/"
   side: left
   dropdown:
-  -title: "Perfiles de Colecciones"
-    url: "/curadores/perfiles-colecciones/"
   - title: "Solicitud de Perfil"
     url: "/curadores/solicitud-perfil/"
   - title: "Ingreso de Datos"
