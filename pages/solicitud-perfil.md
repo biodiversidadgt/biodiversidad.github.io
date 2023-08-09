@@ -20,7 +20,7 @@ Con una cuenta de usuario activada, solicitar la creación del perfil virtual de
 - Nombre y acrónimo de la universidad o institución.
 - Nombre, acrónimo y descripción de la colección.
 - Nombre y contacto del curador.
-- Tipo de perfil que desea generar.
+- Tipo de [perfil](https://biodiversidadgt.github.io/docs/curadores/) que desea generar.
   
 Una vez generado el perfil, el solicitante será añadido como **administrador del perfil** y podrá iniciar con el ingreso de datos.
 
