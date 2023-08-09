@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwitdth
 subheadline: Manejo de Colecciones Virtuales en el Portal
 title:  "Perfiles de Colección"
 teaser: "Los perfiles de Manejo de Colecciones permiten el ingreso y gestión de datos de especímenes y observaciones. Además, los administradores obtienen acceso a herramientas avanzadas de limpieza de datos, publicación de datos a agregadores externos, y transcripción pública de etiquetas por medio de proyectos de crowdsourcing."
@@ -11,6 +11,22 @@ header:
 image: 
     thumb: Mapacolor.jpg 
 permalink: "/curadores/perfiles-colecciones/"
+---
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitar Perfil Virtual ›</a>
+
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Tabla de Contenido**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ---
 
 [![PortalCriso2](https://github.com/biodiversidadgt/docs/assets/69399374/43faf3d4-0705-47aa-a571-678ac3b24567)](https://biodiversidad.gt)
@@ -56,5 +72,5 @@ Tienen acceso a todas las funciones de ingreso y edición de datos. Además pued
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, eliminar registros, ni editar la información de la colección.
 
 ---
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitar Perfil Virtual ›</a>
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
