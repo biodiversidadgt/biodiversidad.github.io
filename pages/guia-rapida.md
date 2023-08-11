@@ -87,7 +87,7 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitud de Perfil ›</a>
 
-Una vez generado su perfil virtual en el Portal, `¡ya pueden empezar a digitalizar!`
+Cuando su perfil virtual haya sido generado en el Portal, `¡ya pueden empezar a digitalizar!`
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/ingreso-datos/">Ingreso de Datos ›</a>
 
