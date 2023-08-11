@@ -85,7 +85,7 @@ Los encargados de las colecciones también deben tener en cuenta el **tipo de re
 
 Una vez se tenga clara la información anterior, los encargados de las colecciones pueden contactar a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/) con los datos de su colección y de al menos una persona encargada para solicitar sus perfiles virtuales.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Ingreso de Datos ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/solicitud-perfil/">Solicitud de Perfil ›</a>
 
 Una vez generado su perfil virtual en el Portal, `¡ya pueden empezar a digitalizar!`
 
