@@ -6,20 +6,12 @@
   url: "/guia-rapida/"
   side: left
   dropdown:
-  - title: "Datos de Biodiversidad"
-    url: "/datos/"
-  - title: "Actividades"
-    url: "/actividades/"
-
+  
 - title: "Curadores"
   url: "/curadores/"
   side: left
   dropdown:
-  - title: "Solicitud de Perfil"
-    url: "/curadores/solicitud-perfil/"
-  - title: "Ingreso de Datos"
-    url: "/curadores/ingreso-datos/"
-  
+    
 - title: "Usuarios"
   url: "/usuarios/"
   side: left
