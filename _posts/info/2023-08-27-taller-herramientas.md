@@ -25,8 +25,10 @@ show_metadata: false
 
 ---
 
-En septiembre de 2023, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) cumple **tres años** al servicio de las colecciones científicas del país. Para celebrarlos, los invitamos a participar en el taller virtual **"Herramientas interactivas para el estudio de la Biodiversidad de Guatemala"**.
+En septiembre de 2023, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) cumple **tres años** al servicio de las colecciones científicas del país. Durante este tiempo, cientos de curadores, investigadores y voluntarios han digitalizado más de 43,000 registros de especímenes, generando una gran cantidad de información accesible para todos. Para celebrar los logros y continuar con el avance de nuestro Portal, los invitamos a participar en el taller virtual **"Herramientas interactivas para el estudio de la Biodiversidad de Guatemala"**. 
 
-El taller será realizado el 21 de septiembre de 10:00 am a 12:00 pm Guatemala, y está dirigido a investigadores y estudiantes asociados con colecciones guatemaltecas integradas en el **Portal de Biodiversidad**. Es necesario poseer una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php) en el Portal para realizar las actividades.
+Los participantes serán capacitados para generar múltiples recursos interactivos, tanto para facilitar sus investigaciones enfocadas en biodiversidad, como para apoyar el trabajo diario de digitalización de los curadores y voluntarios que utilizan el Portal.
 
-<a class="radius button small" href="https://asu.zoom.us/meeting/register/tZMsdeGhpzguE9waJmVnlj9AxBwFoNOh8ioG#/registration">Registro aquí ›</a>
+El taller será realizado el 21 de septiembre de 10:00 am a 12:00 pm Guatemala, y está dirigido a investigadores y estudiantes asociados con colecciones guatemaltecas. Es necesario poseer una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php) en el **Portal de Biodiversidad** para realizar las actividades.
+
+<a class="radius button small" href="https://asu.zoom.us/meeting/register/tZMsdeGhpzguE9waJmVnlj9AxBwFoNOh8ioG#/registration">Aplicación y Registro Aquí ›</a>
