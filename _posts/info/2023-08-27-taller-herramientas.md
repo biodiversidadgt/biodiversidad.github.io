@@ -31,5 +31,4 @@ El taller será realizado el 21 de septiembre de 10:00 am a 12:00 pm Guatemala, 
 
 **[Registro](https://tinyurl.com/herramientasportal) abierto hasta el 14 de septiembre de 2023** 
 
-|[<img src="https://github.com/biodiversidadgt/docs/assets/69399374/ae52803f-e4ce-4678-8055-616d80d80cc6" alt="Taller">](https://asu.zoom.us/meeting/register/tZMsdeGhpzguE9waJmVnlj9AxBwFoNOh8ioG#/registration)| Taller Virtual "Herramientas interactivas para el estudio de la Biodiversidad de Guatemala
-
+|[<img src="https://github.com/biodiversidadgt/docs/assets/69399374/e1358e2e-fad9-4f7c-bfbb-ae041903e9c2" alt="Taller">](https://asu.zoom.us/meeting/register/tZMsdeGhpzguE9waJmVnlj9AxBwFoNOh8ioG#/registration)| Taller Virtual "Herramientas interactivas para el estudio de la Biodiversidad de Guatemala
