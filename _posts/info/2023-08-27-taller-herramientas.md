@@ -15,9 +15,9 @@ tags:
 #
 header: no
 image:
-    title: HerramientasPortal21.jpg
-    thumb: HerramientasPortal21.jpg
-    homepage: HerramientasPortal21.jpg
+    title: TallerHerramientas.jpg
+    thumb: TallerHerramientas.jpg
+    homepage: TallerHerramientas.jpg
     caption: Registro abierto hasta el 14 de septiembre de 2023
 mediaplayer: true
 show_metadata: false
