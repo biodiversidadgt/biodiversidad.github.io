@@ -104,7 +104,7 @@ Los registros publicados en el [Portal de Biodiversidad de Guatemala](https://bi
 
 ## ¿Más preguntas?
 
-Contamos con extenso portafolio de [documentación][1] y recursos disponibles en español para conocer más acerca de las funciones del [Portal de Biodiversidad](https://biodiversidad.gt). No duden en contactar a los [administradores](https://biodiversidadgt.github.io/docs/contactos/) para obtener atención personalizada.
+Contamos con extenso portafolio de [documentación][https://biokic.github.io/symbiota-docs/es/] y [recursos disponibles en español](https://symbiota.org/es) para conocer más acerca de las funciones del [Portal de Biodiversidad](https://biodiversidad.gt) y otros portales [Symbiota](https://symbiota.org). No duden en contactar a los [administradores](https://biodiversidadgt.github.io/docs/contactos/) para obtener atención personalizada.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para Curadores ›</a>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para Usuarios ›</a>
