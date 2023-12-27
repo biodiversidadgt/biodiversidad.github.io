@@ -15,8 +15,8 @@ tags:
 #
 header: no
 image:
-    thumb: capitulo20.jpg
-    homepage: capitulo20.jpg
+    thumb: MapaPortal.jpg
+    homepage: MapaPortal.jpg
     caption: ¡Tercer aniversario!
 mediaplayer: true
 show_metadata: false
@@ -26,7 +26,7 @@ show_metadata: false
 
 ---
 
-¡El Portal de Biodiversidad está de aniversario!
+## ¡El Portal de Biodiversidad está de aniversario!
 
 Desde 2020, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) se ha consolidado como una de las plataformas de digitalización y movilización de colecciones más activas y relevantes de Latinoamérica.
 
