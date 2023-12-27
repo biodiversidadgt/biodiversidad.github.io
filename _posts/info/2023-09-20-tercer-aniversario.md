@@ -28,13 +28,11 @@ show_metadata: false
 
 Desde 2020, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) se ha consolidado como una de las plataformas de digitalización y movilización de colecciones más activas y relevantes de Latinoamérica.
 
-|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/21923b2c-1ea3-4d9d-9aee-d80006ff7a2e)
-](https://biodiversidad.gt)|
+|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/21923b2c-1ea3-4d9d-9aee-d80006ff7a2e)](https://biodiversidad.gt)|
 
 Con más de 30 colecciones ahora disponibles en línea, el Portal de Biodiversidad marcó un antes y un después en la presencia digital de instituciones científicas e información de especies registradas en nuestro país. Además, nuestra [instalación en GBIF](https://tinyurl.com/portalgbif), también activada en septiembre de 2020, ha permitido la movilización de más de 37,900 registros de especímenes guatemaltecos (y de otros 24 países) a esta red global.
 
-|[![381275817_786764426790315_6318651358630381051_n](https://github.com/biodiversidadgt/docs/assets/69399374/f3bf7858-7419-47ee-9725-0b2666b9a2b5)
-](https://tinyurl.com/portalgbif)|
+|[![381275817_786764426790315_6318651358630381051_n](https://github.com/biodiversidadgt/docs/assets/69399374/f3bf7858-7419-47ee-9725-0b2666b9a2b5)](https://tinyurl.com/portalgbif)|
 
 La presencia en esta plataforma también ha permitido a las colecciones del país ser citadas más de 200 veces en publicaciones científicas, y a investigadores locales registrar sus especímenes en la plataforma [Bionomía](https://es.bionomia.net/country/GT?page=2).
 
