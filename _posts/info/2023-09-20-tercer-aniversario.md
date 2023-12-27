@@ -22,10 +22,6 @@ mediaplayer: true
 show_metadata: false
 ---
 
-[![405391377_829781269155297_2332278361320849202_n](https://github.com/biodiversidadgt/docs/assets/69399374/e4f8dc17-3e3e-43db-8b3c-6d7e2b58fbe4)](https://zenodo.org/records/10424127)
-
----
-
 ## ¡El Portal de Biodiversidad está de aniversario!
 
 Desde 2020, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) se ha consolidado como una de las plataformas de digitalización y movilización de colecciones más activas y relevantes de Latinoamérica.
