@@ -40,4 +40,4 @@ Felicitamos a todos los participantes por su arduo trabajo desde cada una de sus
 
 No duden en [contactarse](https://biodiversidadgt.github.io/docs/contactos/) con nosotros para obtener asesoría de alto nivel y así poder integrar sus colecciones en el Portal de Biodiversidad de Guatemala y en GBIF con la mejor calidad.
 
-![379240740_779924360807655_1756579773191146789_n](https://github.com/biodiversidadgt/docs/assets/69399374/6d7e7182-107e-44f9-a2af-a7b2f67d5497)
+|![379240740_779924360807655_1756579773191146789_n](https://github.com/biodiversidadgt/docs/assets/69399374/6d7e7182-107e-44f9-a2af-a7b2f67d5497)|
