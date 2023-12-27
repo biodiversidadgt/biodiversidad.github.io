@@ -3,13 +3,13 @@ layout: page
 #
 # Content
 #
-subheadline: "Publicación"
-title: "Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala"
-teaser: "Reseña histórica acerca del proceso de creación del Portal y los resultados iniciales de digitalización."
+subheadline: "Resultados"
+title: "Tercer Aniversario del Portal de Biodiversidad de Guatemala"
+teaser: "¡Nuestro proyecto académico alcanza tres años de contribuir con las colecciones nacionales!"
 categories:
-  - curadores
+  - usuarios
 tags:
-  - publicaciones
+  - logros
 #
 # Styling
 #
@@ -17,7 +17,7 @@ header: no
 image:
     thumb: capitulo20.jpg
     homepage: capitulo20.jpg
-    caption: ¡Nueva publicación acerca del Portal!
+    caption: ¡Tercer aniversario!
 mediaplayer: true
 show_metadata: false
 ---
@@ -26,27 +26,20 @@ show_metadata: false
 
 ---
 
-A finales de noviembre de 2023, fue publicado el capítulo [**Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala**](https://doi.org/10.5281/zenodo.10424127) como parte del libro _Biodiversidad de Guatemala Vol. 3_, dedicado a la memoria del Dr. Enio B. Cano, editor de las dos primeras entregas. Este capítulo resume el proceso de creación del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) en 2020, así como los resultados de los dos primeros años de trabajo de las colecciones guatemaltecas en esta plataforma.  
+¡El Portal de Biodiversidad está de aniversario!
 
-|![image](https://github.com/biodiversidadgt/docs/assets/69399374/1220d08d-ec34-4c35-a954-524110a123e2)|
+Desde 2020, el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) se ha consolidado como una de las plataformas de digitalización y movilización de colecciones más activas y relevantes de Latinoamérica.
 
-De 2020 a 2022 y con la participación de curadores, investigadores y voluntarios en 33 colecciones biológicas de Guatemala, más de 36,000 especímenes fueron digitalizados y compartidos en línea por primera vez. Con esto, se aumentó un 700% la cantidad de registros digitales publicados desde Guatemala en plataformas de libre acceso y se facilitó la consulta y utilización de la información de biodiversidad para la publicación de más de 100 artículos y notas científicas a nivel mundial. 
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/21923b2c-1ea3-4d9d-9aee-d80006ff7a2e)
 
-|![image](https://github.com/biodiversidadgt/docs/assets/69399374/cba9dcf5-bbdd-4d1e-b847-4087f7de4a46)|
+Con más de 30 colecciones ahora disponibles en línea, el Portal de Biodiversidad marcó un antes y un después en la presencia digital de instituciones científicas e información de especies registradas en nuestro país. Además, nuestra [instalación en GBIF](https://tinyurl.com/portalgbif), también activada en septiembre de 2020, ha permitido la movilización de más de 37,900 registros de especímenes guatemaltecos (y de otros 24 países) a esta red global.
 
-Además, con la colaboración con el equipo [Symbiota](https://symbiota.org) de Arizona State University, el **Portal de Biodiversidad** ha sido actualizado y mantenido en óptimas condiciones para su funcionamiento. El acceso a esta plataforma especializada, también ha facilitado la organización de actividades de educación y divulgación para cientos de usuarios en Guatemala y Latinoamérica, contribuyendo con el avance de la digitalización de colecciones biológicas a nivel regional. 
+![381275817_786764426790315_6318651358630381051_n](https://github.com/biodiversidadgt/docs/assets/69399374/f3bf7858-7419-47ee-9725-0b2666b9a2b5)
 
-El impacto del **Portal de Biodiversidad de Guatemala** también se ve reflejado en la activación de la primera [instalación](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) enfocada en el país para la Global Biodiversity Information Facility (GBIF), facilitando la movilización de más de 30,000 registros de especímenes e imágenes directamente hacia esta plataforma, durante los primeros dos años de existencia. La presencia de colecciones guatemaltecas en este agregador de datos mundial, permite citar los registros en publicaciones científicas con un identificador único o doi, como en el caso de otros capítulos incluídos en el Volumen 3 de Biodiversidad de Guatemala que abarcan registros y especies de coleópteros, moluscos y anfibios digitalizados o compartidos en el **Portal de Biodiversidad de Guatemala**.
+La presencia en esta plataforma también ha permitido a las colecciones del país ser citadas más de 200 veces en publicaciones científicas, y a investigadores locales registrar sus especímenes en la plataforma [Bionomía](https://es.bionomia.net/country/GT?page=2).
 
-|[![image](https://github.com/biodiversidadgt/docs/assets/69399374/cbb4da06-b3c0-4c18-98d0-ee93255de6b2)](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f)|
+Felicitamos a todos los participantes por su arduo trabajo desde cada una de sus instituciones, y motivamos a más curadores e investigadores a aprovechar este recurso académico de primer nivel. Asimismo, agradecemos el apoyo constante del equipo [Symbiota](https://symbiota.org) de iDigBio y Arizona State University para el mantenimiento técnico del Portal.
 
-Nos complace formar parte de este nuevo volumen de Biodiversidad de Guatemala, ya que el Dr. Cano formó parte importante de este esfuerzo al digitalizar los primeros especímenes de la [Colección Entomológica de la Escuela de Biología USAC](https://tinyurl.com/usacento). Además, su trabajo como editor de los dos primeros volúmenes de la serie, fue y seguirá siendo una inspiración para compartir información acerca de las especies guatemaltecas en nuestro portal, por lo que nos enorgullece formar parte de su legado.
+No duden en [contactarse](https://biodiversidadgt.github.io/docs/contactos/) con nosotros para obtener asesoría de alto nivel y así poder integrar sus colecciones en el Portal de Biodiversidad de Guatemala y en GBIF con la mejor calidad.
 
-|[![pic2](https://github.com/biodiversidadgt/docs/assets/69399374/484f1fe0-1191-470d-a69a-3119274b5779)](https://biodiversidad.gt/portal/collections/individual/index.php?occid=112708)|
-
----
-
-¡Los invitamos a leer nuestra publicación y a comunicarse con nosotros para integrar sus colecciones de biodiversidad!
-Los invitamos a conocer leer esta nueva publicación y a [comunicarse con nosotros](https://biodiversidadgt.github.io/docs/contactos/) para incluir sus proyectos de biodiversidad en el Portal de Biodiversidad. 
-
-- Capítulo completo: [**Orellana, K. S., Lopez, Z., Yoshimoto, J., Quezada, M., Prado, L., Ambrocio, A. L., Dávila, L., Barrios-Izás, M., Bustamante, M., Franz, N., & Gilbert, E.** (2023). Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala. In Schuster, J., Yoshimoto, J. & J. Monzón (Eds). Biodiversidad de Guatemala Vol. 3 (pp. 434–444). Universidad del Valle de Guatemala. https://doi.org/10.5281/zenodo.10424127](https://doi.org/10.5281/zenodo.10424127)
+![379240740_779924360807655_1756579773191146789_n](https://github.com/biodiversidadgt/docs/assets/69399374/6d7e7182-107e-44f9-a2af-a7b2f67d5497)
