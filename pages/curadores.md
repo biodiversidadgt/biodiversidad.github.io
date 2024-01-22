@@ -29,7 +29,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) permite la g
 
 |[![PerfilUSCG](https://github.com/biodiversidadgt/docs/assets/69399374/070a86f6-2d7f-4703-a0f3-80a58b76ca83)](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69)|
 
-Perfil virtual de la Colección de Hongos del Herbario USCG CECON de la USAC.
+_Perfil virtual de la Colección de Hongos del Herbario USCG CECON de la USAC._
 
 ## Tipos de Perfiles Virtuales   {#perfiles}
 
@@ -55,7 +55,7 @@ Tienen acceso a todas las funciones de ingreso y edición de datos. Los administ
 
 |![PerfilUSCGadmin](https://github.com/biodiversidadgt/docs/assets/69399374/c932cb52-d917-4b1a-81d2-c84ea322d5e8)|
 
-Perfil virtual visto por un administrador, con todas las herramientas activadas.
+_Perfil virtual visto por un administrador, con todas las herramientas activadas._
 
 ### Editores del perfil
 
@@ -63,7 +63,7 @@ Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden ot
 
 |![PerfilUSCGeditor](https://github.com/biodiversidadgt/docs/assets/69399374/f1956e6f-9d5e-4c63-af79-025071df11ca)|
 
-Perfil virtual visto por un editor, únicamente con el panel respectivo activado.
+_Perfil virtual visto por un editor, únicamente con el panel respectivo activado._
 
 ---
 
