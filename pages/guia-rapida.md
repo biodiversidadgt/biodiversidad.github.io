@@ -35,6 +35,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Conozca más acerca de Datos de Biodiversidad ›</a>
 
 |[![image](https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Portal2.jpg?raw=true)](https://biodiversidad.gt)|
+
 _Portal de Biodiversidad de Guatemala._
 
 ----
@@ -70,6 +71,7 @@ El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está dispon
 `Recomendado para las colecciones que inician con la digitalización o que poseen únicamente un archivo plano (.csv, .txt) de sus datos.`
 
 |![FormularioPorifera](https://github.com/biodiversidadgt/docs/assets/69399374/a994435a-493c-41a2-8f37-15bdd9d51a25)|
+
 _Formulario de ingreso de datos._
 
 - Para continuar con el manejo de datos en otra plataforma y únicamente compartir una copia en el Portal de Biodiversidad, el tipo de perfil indicado es un **snapshot**.
