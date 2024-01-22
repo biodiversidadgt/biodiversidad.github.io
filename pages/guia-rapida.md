@@ -28,15 +28,11 @@ permalink           : "/guia-rapida/"
 
 ---
 
-La función principal del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es la digitalización de Colecciones Biológicas del país. Sin embargo, también conforma una plataforma robusta para ingresar datos de otros proyectos de biodiversidad, así como acceder a la [información](https://biodiversidadgt.github.io/docs/datos/) obtenida de diversas fuentes. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal. 
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Conozca más acerca de Datos de Biodiversidad ›</a>
-
----
-
 ## Acerca del Portal de Biodiversidad de Guatemala
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es un portal virtual para manejar información de biodiversidad, especialmente datos e imágenes provenientes de especímenes de colecciones científicas del país. El Portal fue generado con la plataforma especializada [Symbiota](https://symbiota.org/es), con el apoyo del equipo informático del [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/) de Arizona State University (Estados Unidos), y es dirigido por [biólogos guatemaltecos](https://biodiversidadgt.github.io/docs/contactos/). Actualmente, el mantenimiento técnico de la plataforma está a cargo del equipo de [Symbiota](https://symbiota.org/ayuda/).
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Conozca más acerca de Datos de Biodiversidad ›</a>
 
 |[![image](https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Portal2.jpg?raw=true)](https://biodiversidad.gt)|
 
