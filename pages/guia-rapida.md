@@ -66,16 +66,17 @@ Dependiendo de las actividades que buscan ser realizadas en el Portal de Biodive
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está disponible para ser utilizado de forma gratuita por todo tipo de colecciones biológicas guatemaltecas. El objetivo principal de este portal es la digitalización y movilización de [datos de especímenes](https://biodiversidad.gt/portal/collections/list.php?db=21&hasimages=1&taxa=Solanaceae&usethes=1&taxontype=2), pero también cuenta con herramientas para manejar [proyectos de observaciones](https://biodiversidad.gt/portal/collections/list.php?db=7&reset=1&country=Guatemala&state=&county=) pequeños. Para elegir la mejor forma de hacer uso del portal, los primero que se debe evaluar es el **tipo de manejo** que van a tener sus colecciones en línea.
 
-- `Si desean manejar sus datos directamente en el portal, es necesario contar con un perfil de manejo en vivo.`
+- Para manejar datos directamente en el Portal, es necesario contar con un perfil de **manejo en vivo**.
 
-Recomendado para las colecciones que inician con la digitalización o que poseen únicamente un archivo plano (.csv, .txt) de sus datos.
-
-- `Si desean seguir manejando sus datos en otra plataforma y únicamente compartir una copia en el Portal de Biodiversidad, el tipo de perfil indicado es un snapshot.`
-
-Recomendado para colecciones manejadas en otros sistemas o ya publicadas en otros agregadores.
+`Recomendado para las colecciones que inician con la digitalización o que poseen únicamente un archivo plano (.csv, .txt) de sus datos.`
 
 |![FormularioPorifera](https://github.com/biodiversidadgt/docs/assets/69399374/a994435a-493c-41a2-8f37-15bdd9d51a25)|
 
+Formulario de ingreso de datos.
+
+- Para continuar con el manejo de datos en otra plataforma y únicamente compartir una copia en el Portal de Biodiversidad, el tipo de perfil indicado es un **snapshot**.
+
+`Recomendado para colecciones manejadas en otros sistemas o ya publicadas en otros agregadores.`
 
 Los encargados de las colecciones también deben tener en cuenta el **tipo de registros** que van a digitalizar (especímenes preservados, ejemplares vivos, fósiles, observaciones) y el **grupo taxonómico** en el que se enfoca la colección.
 
@@ -86,7 +87,6 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 Cuando su perfil virtual haya sido generado en el Portal, `¡ya pueden empezar a digitalizar!`
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/ingreso-datos/">Ingreso de Datos ›</a>
-
 
 ---
 
