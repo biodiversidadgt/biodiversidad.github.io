@@ -98,7 +98,7 @@ Cada perfil de colección tiene una sugerencia de cita. Para el uso de datos esp
 
 `Cita General del Portal`
 
-- **Orellana, K. S., Lopez, Z., Yoshimoto, J., Quezada, M., Prado, L., Ambrocio, A. L., Dávila, L., Barrios-Izás, M., Bustamante, M., Franz, N., & Gilbert, E.** (2023). Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala. In Schuster, J., Yoshimoto, J. & J. Monzón (Eds). Biodiversidad de Guatemala Vol. 3 (pp. 434–444). Universidad del Valle de Guatemala. https://doi.org/10.5281/zenodo.10424127
+- **Orellana, K. S., Lopez, Z., Yoshimoto, J., Quezada, M., Prado, L., Ambrocio, A. L., Dávila, L., Barrios-Izás, M., Bustamante, M., Franz, N., & Gilbert, E.** (2023). Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala. In Schuster, J., Yoshimoto, J. & J. Monzón (Eds). Biodiversidad de Guatemala Vol. 3 (pp. 434–444). Universidad del Valle de Guatemala. [https://doi.org/10.5281/zenodo.10424127](https://zenodo.org/records/10424127)
   
 `Datos de instituciones específicas`
 
