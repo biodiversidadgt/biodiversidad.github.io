@@ -27,13 +27,15 @@ image:
 
 ## Tipos de Datos de Biodiversidad   {#datos-biodiversidad}
 
-El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) contiene información de `especímenes` ingresada desde las colecciones biológicas nacionales. Además, existe información de `observaciones` realizadas durante proyectos de investigación. A continuación se describen las principales herramientas de búsqueda para poder explorar los datos incluidos en el Portal. Se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros a ser utilizados en investigaciones científicas para vincular y citar adecuadamente los datos en publicaciones.
+El [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt) contiene información de `especímenes` ingresada directamente desde las colecciones biológicas nacionales e integrada de forma secundaria, en el caso de colecciones extranjeras. Además, existe información de `observaciones` realizadas durante proyectos de investigación locales e importadas desde plataformas externas como iNaturalist. A continuación se describen las principales herramientas de búsqueda para poder explorar los registros incluidos en el Portal. Se recomienda utilizar la plataforma [GBIF](https://tinyurl.com/portalgbif) para descargar registros a ser utilizados en investigaciones científicas, para vincular y citar adecuadamente los datos en publicaciones.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/datos/">Conozca más acerca de Datos de Biodiversidad ›</a>
 
 ---
 
 ## Búsqueda de Información en el Portal de Biodiversidad  {#búsqueda}
 
-El Portal de [Biodiversidad de Guatemala](https://biodiversidad.gt) cuenta con varias opciones de búsqueda de información, dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una cuenta, pueden buscar información en el Portal de Biodiversidad de Guatemala.
+El Portal de [Biodiversidad de Guatemala](https://biodiversidad.gt) posee varias opciones de búsqueda de información, dependiendo del formato deseado por el usuario. Todos los usuarios, sin necesidad de una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php), pueden buscar información en el Portal de Biodiversidad.
 
 Para más información acerca de la búsqueda de información, pueden dirigirse a este [tutorial](https://www.youtube.com/watch?v=ZWF7ZwVcSwo), o a los [Documentos Symbiota](https://symbiota.org/docs).
 
@@ -99,6 +101,10 @@ Cada perfil de colección tiene una sugerencia de cita. Para el uso de datos esp
 `Cita General del Portal`
 
 - **Orellana, K. S., Lopez, Z., Yoshimoto, J., Quezada, M., Prado, L., Ambrocio, A. L., Dávila, L., Barrios-Izás, M., Bustamante, M., Franz, N., & Gilbert, E.** (2023). Digitalización de colecciones biológicas en el portal Symbiota de Biodiversidad de Guatemala. In Schuster, J., Yoshimoto, J. & J. Monzón (Eds). Biodiversidad de Guatemala Vol. 3 (pp. 434–444). Universidad del Valle de Guatemala. [https://doi.org/10.5281/zenodo.10424127](https://zenodo.org/records/10424127)
+
+`Conjunto de datos`
+
+- **Biodiversidad de Guatemala.** (2024). Datos de ocurrencia de biodiversidad. "Título del conjunto de datos". [Insertar enlace permanente]. Accesado en [fecha]. 
   
 `Datos de instituciones específicas`
 
