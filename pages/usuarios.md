@@ -58,8 +58,8 @@ Los registros encontrados pueden ser desplegados en forma de lista o tabla para 
 |[![BúsquedaQuercus](https://github.com/biodiversidadgt/docs/assets/69399374/36385e2e-6a0e-4257-a19c-aee2abce1204)](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2)|
 
 Las búsquedas también pueden ser guardadas como conjuntos de datos por los usuarios conectados, utilizando la función _Dataset Management_ en la esquina superior de la búsqueda, seleccionando los especímenes que deseen incorporar. Los conjuntos de datos pueden ser guardados y explorados desde "Mi Perfil"> "Manejo de Ocurrencias" > "Manejo de Conjuntos de Datos".
-[
-![ConjuntosDeDatos](https://github.com/biodiversidadgt/docs/assets/69399374/56dcc1b2-6b82-4109-8757-01c463912920)](https://biodiversidad.gt/portal/collections/datasets/public.php?datasetid=28)
+
+[![ConjuntosDeDatos](https://github.com/biodiversidadgt/docs/assets/69399374/56dcc1b2-6b82-4109-8757-01c463912920)](https://biodiversidad.gt/portal/collections/datasets/public.php?datasetid=28)
 
 
 ---
