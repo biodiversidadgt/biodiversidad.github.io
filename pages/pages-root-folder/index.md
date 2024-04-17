@@ -16,12 +16,12 @@ widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
   image: Portal.jpg
-  text: 'Doucumentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
+  text: 'Documentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
 widget2:
   title: "Documentación para Usuarios"
   url: 'http://biodiversidadgt.github.io/docs/usuarios/'
   image: Mapacolor.jpg
-  text: 'Doucumentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
+  text: 'Documentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
 widget3:
   title: "Symbiota"
   url: 'http://symbiota.org/es/'
