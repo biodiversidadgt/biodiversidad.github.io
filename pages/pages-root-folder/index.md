@@ -21,7 +21,7 @@ widget2:
   title: "Documentación para Usuarios"
   url: 'http://biodiversidadgt.github.io/docs/usuarios/'
   image: Mapacolor.jpg
-  text: 'Documentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
+  text: 'Documentación actualizada para la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
 widget3:
   title: "Symbiota"
   url: 'http://symbiota.org/es/'
