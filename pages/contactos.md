@@ -31,19 +31,18 @@ Universidad de Bern, [**ORCID**](https://orcid.org/0000-0003-0449-7352), `zabdi[
   
   Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Ecología y Estudios Ambientales de la misma universidad y la Universidad del Sureste de Noruega. Actualmente continúa sus doctorado en la Universidad de Bern, Austria, investigando los efectos del cambio climático en la distribución y diversidad de especies. Colaborador [voluntario](https://bionomia.net/0000-0003-0449-7352) de las Colecciones Biológicas UVG desde sus años de estudiante, donde además trabajó como [curador](https://noticias.uvg.edu.gt/biologia-biodiversidad-colecciones-biologicas-uvg/) de 2020 a 2022. Co-administrador del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020.  
 
-<img src="https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca" alt="Araecerus fasciculatus" width="250" height="400">
+<img src="https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca" alt="Zabdi Lopez" width="250" height="400">
 
 ---
 
-## Equipo Symbiota
-Arizona State University, `ayuda[at]symbiota.org` o `help.symbiota.org`.
+## Equipo Symbiota de iDigBio
+Universidad de Kansas, `ayuda[at]symbiota.org` o `help.symbiota.org`.
 
 ---
 
 Asistencia técnica para colecciones ya incluidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), o para colecciones en otros países.
 
-![SSHBio](https://github.com/biodiversidadgt/docs/assets/69399374/5617acc3-e2c7-40af-a261-a649d4117020)
-
+![SSH-Team-Slide-Aug-2024](https://github.com/user-attachments/assets/a4beeba0-4493-4e53-8585-c1413d33ce5a)
 
 ---
 
