@@ -27,9 +27,9 @@ Universidad Estatal de Arizona, [**ORCID**](https://orcid.org/0000-0002-4098-582
 ---
 
 ### M.Sc. Zabdi López
-Universidad de Bern, [**ORCID**](https://orcid.org/0000-0003-0449-7352), `zabdi[arroba]uvg.alumni.edu.gt`.
+Universidad de Bern, [**ORCID**](https://orcid.org/0000-0003-0449-7352), `zabdi.lopez[arroba]unibe.ch`.
   
-  Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Ecología y Estudios Ambientales de la misma universidad y la Universidad del Sureste de Noruega. Actualmente continúa sus doctorado en la Universidad de Bern, Austria, investigando los efectos del cambio climático en la distribución y diversidad de especies. Colaborador [voluntario](https://bionomia.net/0000-0003-0449-7352) de las Colecciones Biológicas UVG desde sus años de estudiante, donde además trabajó como [curador](https://noticias.uvg.edu.gt/biologia-biodiversidad-colecciones-biologicas-uvg/) de 2020 a 2022. Co-administrador del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020.  
+  Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Ecología y Estudios Ambientales de la misma universidad y la Universidad del Sureste de Noruega. Actualmente continúa sus doctorado en la Universidad de Bern, Suiza, investigando los efectos del cambio climático en la distribución y diversidad de especies. Colaborador [voluntario](https://bionomia.net/0000-0003-0449-7352) de las Colecciones Biológicas UVG desde sus años de estudiante, donde además trabajó como [curador](https://noticias.uvg.edu.gt/biologia-biodiversidad-colecciones-biologicas-uvg/) de 2020 a 2022. Co-administrador del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020.  
 
 <img src="https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca" alt="Zabdi Lopez" width="250" height="400">
 
