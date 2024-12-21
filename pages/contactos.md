@@ -18,7 +18,7 @@ image:
 ---
 
 ### Dra. Samanta Orellana
-Investigadora Postdoctoral, Instituto de Biodiversidad, Universidad de Kansas [**ORCID**](https://orcid.org/0000-0002-4098-5823), `samanta.orellana[arroba]ku.edu`.
+Investigadora Postdoctoral, Instituto de Biodiversidad de la Universidad de Kansas [**ORCID**](https://orcid.org/0000-0002-4098-5823), `samanta.orellana[arroba]ku.edu`.
   
   Bióloga guatemalteca, graduada de la Universidad de San Carlos de Guatemala, con una Maestría en Entomología por la Universidad de Panamá y un Doctorado en Biología Evolutiva por la Universidad Estatal de Arizona. A partir de 2025, investigadora postdoctoral en el Instituto de Biodiversidad de la Universidad de Kansas, enfocada en la diversidad y sistemática de la familia [Anthribidae](https://anthribidae.github.io/species) (Coleoptera: Curculionoidea). Por más de 15 años ha colaborado [activamente](https://bionomia.net/0000-0002-4098-5823) con la colecta, preparación, identificación y curación de especímenes en colecciones entomológicas de Guatemala (USAC, UVG, CUNZAC), Costa Rica (UCR), Panamá (UP) y Estados Unidos (ASUCOB, ASUHIC). Co-administradora del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020 y Coordinadora de Comunidades Latinoamericanas del [Equipo Symbiota](https://symbiota.org/contact-the-support-hub/) desde 2021. 
 
