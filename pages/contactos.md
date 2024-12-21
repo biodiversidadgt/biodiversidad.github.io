@@ -17,10 +17,10 @@ image:
 
 ---
 
-### M.Sc. Samanta Orellana
-Universidad Estatal de Arizona, [**ORCID**](https://orcid.org/0000-0002-4098-5823), `sorellana[arroba]asu.edu`.
+### Dra. Samanta Orellana
+Investigadora Postdoctoral, Instituto de Biodiversidad, Universidad de Kansas [**ORCID**](https://orcid.org/0000-0002-4098-5823), `samanta.orellana[arroba]ku.edu`.
   
-  Bióloga guatemalteca, graduada de la Universidad de San Carlos de Guatemala, con una Maestría en Entomología por la Universidad de Panamá. Actualmente es candidata doctoral en el programa de Biología Evolutiva de la Universidad Estatal de Arizona, donde investiga la diversidad y relaciones evolutivas de la familia [Anthribidae](https://anthribidae.github.io/species) (Coleoptera: Curculionoidea). Por más de 15 años ha colaborado [activamente](https://bionomia.net/0000-0002-4098-5823) con la colecta, preparación, identificación y curación de especímenes en colecciones entomológicas de Guatemala (USAC, UVG, CUNZAC), Costa Rica (UCR), Panamá (UP) y Estados Unidos (ASUCOB, ASUHIC). Co-administradora del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020. 
+  Bióloga guatemalteca, graduada de la Universidad de San Carlos de Guatemala, con una Maestría en Entomología por la Universidad de Panamá y un Doctorado en Biología Evolutiva por la Universidad Estatal de Arizona. A partir de 2025, investigadora postdoctoral en el Instituto de Biodiversidad de la Universidad de Kansas, enfocada en la diversidad y sistemática de la familia [Anthribidae](https://anthribidae.github.io/species) (Coleoptera: Curculionoidea). Por más de 15 años ha colaborado [activamente](https://bionomia.net/0000-0002-4098-5823) con la colecta, preparación, identificación y curación de especímenes en colecciones entomológicas de Guatemala (USAC, UVG, CUNZAC), Costa Rica (UCR), Panamá (UP) y Estados Unidos (ASUCOB, ASUHIC). Co-administradora del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020 y Coordinadora de Comunidades Latinoamericanas del [Equipo Symbiota](https://symbiota.org/contact-the-support-hub/) desde 2021. 
 
 <img src="https://github.com/biodiversidadgt/docs/assets/69399374/215b6e40-bf30-4708-bee3-843cd28ecb0b" alt="Samanta Orellana" width="360" height="400">
 
@@ -29,7 +29,7 @@ Universidad Estatal de Arizona, [**ORCID**](https://orcid.org/0000-0002-4098-582
 ### M.Sc. Zabdi López
 Universidad de Bern, [**ORCID**](https://orcid.org/0000-0003-0449-7352), `zabdi.lopez[arroba]unibe.ch`.
   
-  Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Ecología y Estudios Ambientales de la misma universidad y la Universidad del Sureste de Noruega. Actualmente continúa sus doctorado en la Universidad de Bern, Suiza, investigando los efectos del cambio climático en la distribución y diversidad de especies. Colaborador [voluntario](https://bionomia.net/0000-0003-0449-7352) de las Colecciones Biológicas UVG desde sus años de estudiante, donde además trabajó como [curador](https://noticias.uvg.edu.gt/biologia-biodiversidad-colecciones-biologicas-uvg/) de 2020 a 2022. Co-administrador del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020.  
+  Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Ecología y Estudios Ambientales de la misma universidad y la Universidad del Sureste de Noruega. Actualmente continúa sus estudios de doctorado en la Universidad de Bern, Suiza, investigando los efectos del cambio climático en la distribución y diversidad de especies. Colaborador [voluntario](https://bionomia.net/0000-0003-0449-7352) de las Colecciones Biológicas UVG desde sus años de estudiante, donde además trabajó como [curador](https://noticias.uvg.edu.gt/biologia-biodiversidad-colecciones-biologicas-uvg/) de 2020 a 2022. Co-administrador del [Portal de Biodiversidad](https://biodiversidad.gt) de Guatemala desde su fundación en 2020.  
 
 <img src="https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca" alt="Zabdi Lopez" width="250" height="400">
 
